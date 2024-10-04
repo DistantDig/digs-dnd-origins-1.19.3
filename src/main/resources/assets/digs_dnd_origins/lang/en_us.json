@@ -1,4 +1,47 @@
 {
+  "origin.digs_dnd_origins.variant_human.name": "Variant Human",
+  "origin.digs_dnd_origins.variant_human.description": "With their penchant for migration and conquest, humans are more physically diverse than other common races.",
+
+  "power.digs_dnd_origins.variant_human/feat.name": "Feat",
+  "power.digs_dnd_origins.variant_human/feat.description": "You gain one feat of your choice. You will select your feat upon selecting this race.",
+
+  "origin.digs_dnd_origins.variant_human/feats/charger.name": "Charger",
+  "origin.digs_dnd_origins.variant_human/feats/charger.description": "While you are sprinting, you can choose to either shove or deal extra damage to a creature. If you hit a target while your hand is empty, you have significantly more knockback, but if you hit the creature with a weapon you will gain +4 to the damage you deal. This ability has a 6 second cooldown and you cannot sprint in that time.",
+
+  "origin.digs_dnd_origins.variant_human/feats/heavily_armored.name": "Heavily Armored",
+  "origin.digs_dnd_origins.variant_human/feats/heavily_armored.description": "You have trained to master the use of heavy armor. You gain proficiency with heavy armor, giving you +2 to your armor toughness while a full set of diamond or stronger is equipped. You are 10% slower while benefiting from this effect.",
+
+  "origin.digs_dnd_origins.variant_human/feats/lightly_armored.name": "Lightly Armored",
+  "origin.digs_dnd_origins.variant_human/feats/lightly_armored.description": "You have trained to master the use of light armor. You gain proficiency with light armor, giving you +2 to your armor toughness while a full set of chainmail or lighter is equipped. You are 5% slower while benefiting from this effect.",
+
+  "origin.digs_dnd_origins.variant_human/feats/mobile.name": "Mobile",
+  "origin.digs_dnd_origins.variant_human/feats/mobile.description": "Your speed increases by 20% but your exhaustion increases by 30%.",
+
+  "origin.digs_dnd_origins.variant_human/feats/moderately_armored.name": "Moderate Armor",
+  "origin.digs_dnd_origins.variant_human/feats/moderately_armored.description": "You have trained to master the use of medium armor. You gain proficiency with medium armor, giving you +2 to your armor toughness while a full set of armor heavier than chainmail but lighter than diamond is equipped. You are 7% slower while benefiting from this effect.",
+
+  "origin.digs_dnd_origins.variant_human/feats/sentinel.name": "Sentinel",
+  "origin.digs_dnd_origins.variant_human/feats/sentinel.description": "When you hit a creature who is facing away from you, either for running away or attacking and ally, the target will be stunned for 6 seconds. This ability has a 6 second cooldown and does not work on other sentinels. You take 50% increased damage from projectiles.",
+
+  "origin.digs_dnd_origins.variant_human/feats/skilled.name": "Skilled",
+  "origin.digs_dnd_origins.variant_human/feats/skilled.description": "You gain proficiency in three additional skills of your choice, but all skills will be half as effective. You will choose your skills upon selecting this feat.",
+
+  "origin.digs_dnd_origins.variant_human/feats/skulker.name:": "Skulker",
+  "origin.digs_dnd_origins.variant_human/feats/skulker.description": "You are expert at slinking through shadows. Sneaking while in light level 7 or less will render you (but not your armor) invisible. Sky light level is taken into account for this feat.",
+
+  "origin.digs_dnd_origins.variant_human/feats/tough.name": "Tough",
+  "origin.digs_dnd_origins.variant_human/feats/tough.description": "Your health point maximum increases by 20%, but your ranged attack damage is reduced by 30%.",
+
+  "power.digs_dnd_origins.variant_human/skills.name": "Skills",
+  "power.digs_dnd_origins.variant_human/skills.description": "You gain proficiency in one skill of your choice. You will select your skill upon selecting this race.",
+
+  "origin.digs_dnd_origins.tiefling.name": "Tiefling",
+  "origin.digs_dnd_origins.tiefling.description": "Tieflings are derived from human bloodlines, and in the broadest possible sense, they still look human. However, their infernal heritage has left a clear imprint on their appearance.",
+
+  "origin.digs_dnd_origins.halfling.name": "Halfling",
+  "origin.digs_dnd_origins.halfling.description": "The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. You will pick a sub race if you pick this race.",
+
+
   "item.digs_dnd_origins.red_scale": "Red Scale",
   "item.digs_dnd_origins.blue_scale": "Blue Scale",
   "item.digs_dnd_origins.green_scale": "Green Scale",

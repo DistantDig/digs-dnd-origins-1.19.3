@@ -101,7 +101,7 @@ dependencies {
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
 	//Mod Dependencies
-	implementation(files("libs/Origins-1.20.2-1.11.3"))
+	modImplementation "com.github.apace100:origins-fabric:${project.origins_version}"
 	modApi "com.github.apace100:apoli:${project.apoli_version}"
 	include "com.github.apace100:apoli:${project.apoli_version}"
 	modApi("dev.onyxstudios.cardinal-components-api:cardinal-components-base:${cca_version}") {

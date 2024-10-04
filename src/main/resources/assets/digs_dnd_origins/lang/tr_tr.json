@@ -1,0 +1,65 @@
+{
+  "origin.digs_dnd_origins.variant_human.name": "İnsan Varyasyonu",
+  "origin.digs_dnd_origins.variant_human.description": "İnsanlar göç etme ve fetih yapma eğilimleri nedeniyle diğer yaygın ırklara göre fiziksel olarak daha çeşitlidir.",
+
+  "power.digs_dnd_origins.variant_human/feat.name": "Kabiliyet",
+  "power.digs_dnd_origins.variant_human/feat.description": "Seçtiğiniz bir kabiliyet kazanırsınız. Bu ırkı seçtiğinizde kabiliyetinizi seçersiniz.",
+
+  "origin.digs_dnd_origins.variant_human/feats/charger.name": "Savaş Atı",
+  "origin.digs_dnd_origins.variant_human/feats/charger.description": "Koşarken, bir yaratığı itmeyi veya ona ekstra hasar vermeyi seçebilirsiniz. Eliniz boşken bir hedefi vurursanız, önemli ölçüde daha fazla geri itme kazanırsınız, ancak yaratığa bir silahla vurursanız, verdiğiniz hasara +4 kazanırsınız. Bu yeteneğin 6 saniyelik bir bekleme süresi vardır ve bu süre içinde koşamazsınız.",
+
+  "origin.digs_dnd_origins.variant_human/feats/heavily_armored.name": "Ağır Zırhlı",
+  "origin.digs_dnd_origins.variant_human/feats/heavily_armored.description": "Ağır zırh kullanımında ustalaşmak için eğitim aldınız. Ağır zırh konusunda ustalık kazanırsınız, bu da elmas veya daha güçlü bir setle donatılmışken zırh dayanıklılığınıza +2 verir. Bu etkiden yararlanırken %10 daha yavaş olursunuz.",
+
+  "origin.digs_dnd_origins.variant_human/feats/lightly_armored.name": "Hafif Zırhlı",
+  "origin.digs_dnd_origins.variant_human/feats/lightly_armored.description": "Hafif zırh kullanımında ustalaşmak için eğitim aldınız. Hafif zırh konusunda ustalık kazanırsınız, bu da tam bir zincir zırh veya daha hafif zırh takımıyla donatılmışken zırh dayanıklılığınıza +2 kazandırır. Bu etkiden faydalanırken %5 daha yavaş olursunuz.",
+
+  "origin.digs_dnd_origins.variant_human/feats/mobile.name": "Mobil",
+  "origin.digs_dnd_origins.variant_human/feats/mobile.description": "Hızınız %20 artar ama yorgunluğunuz %30 artar.",
+
+  "origin.digs_dnd_origins.variant_human/feats/moderately_armored.name": "Orta Zırhlı",
+  "origin.digs_dnd_origins.variant_human/feats/moderately_armored.description": "Orta zırh kullanımında ustalaşmak için eğitim aldınız. Zincir zırhtan daha ağır ancak elmas zırhtan daha hafif bir zırh seti giydiğinizde, orta zırhta ustalık kazanırsınız ve bu da zırh dayanıklılığınıza +2 kazandırır. Bu etkiden yararlanırken %7 daha yavaş olursunuz.",
+
+  "origin.digs_dnd_origins.variant_human/feats/sentinel.name": "Koruyucu",
+  "origin.digs_dnd_origins.variant_human/feats/sentinel.description": "Sizden uzağa bakan bir yaratığa, ister kaçarak ister bir müttefike saldırarak vurduğunuzda, hedef 6 saniyeliğine sersemletilir. Bu yeteneğin 6 saniyelik bir bekleme süresi vardır ve diğer nöbetçiler üzerinde çalışmaz. Mermilerden %50 daha fazla hasar alırsınız.",
+
+  "origin.digs_dnd_origins.variant_human/feats/skilled.name": "Yetenekli",
+  "origin.digs_dnd_origins.variant_human/feats/skilled.description": "Seçtiğiniz üç ek beceride yeterlilik kazanırsınız, ancak tüm beceriler yarı yarıya etkili olacaktır. Bu beceriyi seçerken becerilerinizi seçeceksiniz.",
+
+  "origin.digs_dnd_origins.variant_human/feats/skulker.name:": "Skulker",
+  "origin.digs_dnd_origins.variant_human/feats/skulker.description": "Gölgelere süzülmekte uzmansınız. Işık seviyesi 7 veya daha düşükken gizlenmek, sizi (ancak zırhınızı değil) görünmez hale getirecektir. Bu yetenek için gökyüzü ışık seviyesi de dikkate alınır.",
+
+  "origin.digs_dnd_origins.variant_human/feats/tough.name": "Sert",
+  "origin.digs_dnd_origins.variant_human/feats/tough.description": "Can puanınız maksimum %20 artar, ancak menzilli saldırı hasarınız %30 azalır.",
+
+  "power.digs_dnd_origins.variant_human/skills.name": "Yetenekler",
+  "power.digs_dnd_origins.variant_human/skills.description": "Seçtiğiniz bir yetenekte ustalık kazanırsınız. Bu ırkı seçtiğinizde yeteneğinizi seçersiniz.",
+
+  "origin.digs_dnd_origins.tiefling.name": "Tiefling",
+  "origin.digs_dnd_origins.tiefling.description": "Tieflingler insan kan hatlarından türemiştir ve en geniş anlamıyla hala insan gibi görünürler. Ancak, cehennemsel mirasları görünümlerinde belirgin bir iz bırakmıştır.",
+
+  "origin.digs_dnd_origins.halfling.name": "Yarımcık",
+  "origin.digs_dnd_origins.halfling.description": "Evin konforu çoğu yarımcığın hayatının hedefleridir: yağmacı canavarlardan ve çatışan ordulardan uzakta, huzur ve sessizlik içinde yerleşilecek bir yer; alev alev yanan bir ateş ve cömert bir yemek; güzel bir içki ve güzel bir sohbet. Bu ırkı seçerseniz bir alt ırk seçmiş olursunuz.",
+
+  "item.digs_dnd_origins.red_scale": "Kırmızı Kabuk",
+  "item.digs_dnd_origins.blue_scale": "Mavi Kabuk",
+  "item.digs_dnd_origins.green_scale": "Yeşil Kabuk",
+  "item.digs_dnd_origins.white_scale": "Beyaz Kabuk",
+  "item.digs_dnd_origins.black_scale": "Siyah Kabuk",
+  "item.digs_dnd_origins.brass_scale": "Pirinç Kabuk",
+
+  "item.digs_dnd_origins.horns": "Boynuzlar",
+
+  "item.digs_dnd_origins.toy_frog_spawn_egg": "Oyuncak Kurbağa",
+
+  "itemGroup.dndOrigins": "Dig'in DnD Kökenleri",
+
+  "entity.digs_dnd_origins.blue_breath": "Şimşek Nefes",
+  "entity.digs_dnd_origins.green_breath": "Zehir Nefes",
+  "entity.digs_dnd_origins.red_breath": "Ateş Nefes",
+  "entity.digs_dnd_origins.white_breath": "Buz Nefes",
+  "entity.digs_dnd_origins.toy_frog": "Oyuncak Kurbağa",
+
+  "effect.digs_dnd_origins.freeze": "Donuyor",
+  "effect.digs_dnd_origins.stun": "Büyülendi"
+}
