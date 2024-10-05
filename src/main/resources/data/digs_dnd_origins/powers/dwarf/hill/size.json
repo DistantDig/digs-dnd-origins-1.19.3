@@ -1,6 +1,4 @@
 {
-	"name": "Size",
-	"description": "You are a block and a half tall. You also have 10% less health points. Your size is medium.",
 	"type": "origins:multiple",
 	"size": {
 		"type": "origins:action_on_callback",
@@ -98,8 +96,8 @@
 		},
 		{
 			"attribute": "generic.attack_damage",
-			"value": -0.5,
-			"operation": "addition"
+			"operation": "addition",
+			"value": -0.5
 		}
 	}
 }

@@ -12,7 +12,5 @@
   ],
   "icon": "minecraft:echo_shard",
   "order": 1,
-  "impact": 2,
-  "name": "Dark Elf",
-  "description": "Also called dark elves, the Drow have skin that resembles charcoal or obsidian, as well as stark white or pale yellow hair."
+  "impact": 2
 }

@@ -2,7 +2,7 @@
   "origin.digs_dnd_origins.variant_human.name": "İnsan Varyasyonu",
   "origin.digs_dnd_origins.variant_human.description": "İnsanlar göç etme ve fetih yapma eğilimleri nedeniyle diğer yaygın ırklara göre fiziksel olarak daha çeşitlidir.",
 
-  "power.digs_dnd_origins.variant_human/feat.name": "Kabiliyet",
+  "power.digs_dnd_origins.variant_human/feat.name": "Ustalık",
   "power.digs_dnd_origins.variant_human/feat.description": "Seçtiğiniz bir kabiliyet kazanırsınız. Bu ırkı seçtiğinizde kabiliyetinizi seçersiniz.",
 
   "origin.digs_dnd_origins.variant_human/feats/charger.name": "Savaş Atı",
@@ -26,7 +26,7 @@
   "origin.digs_dnd_origins.variant_human/feats/skilled.name": "Yetenekli",
   "origin.digs_dnd_origins.variant_human/feats/skilled.description": "Seçtiğiniz üç ek beceride yeterlilik kazanırsınız, ancak tüm beceriler yarı yarıya etkili olacaktır. Bu beceriyi seçerken becerilerinizi seçeceksiniz.",
 
-  "origin.digs_dnd_origins.variant_human/feats/skulker.name:": "Skulker",
+  "origin.digs_dnd_origins.variant_human/feats/skulker.name": "Skulker",
   "origin.digs_dnd_origins.variant_human/feats/skulker.description": "Gölgelere süzülmekte uzmansınız. Işık seviyesi 7 veya daha düşükken gizlenmek, sizi (ancak zırhınızı değil) görünmez hale getirecektir. Bu yetenek için gökyüzü ışık seviyesi de dikkate alınır.",
 
   "origin.digs_dnd_origins.variant_human/feats/tough.name": "Sert",
@@ -38,8 +38,387 @@
   "origin.digs_dnd_origins.tiefling.name": "Tiefling",
   "origin.digs_dnd_origins.tiefling.description": "Tieflingler insan kan hatlarından türemiştir ve en geniş anlamıyla hala insan gibi görünürler. Ancak, cehennemsel mirasları görünümlerinde belirgin bir iz bırakmıştır.",
 
+  "power.digs_dnd_origins.tiefling/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.tiefling/ability_score_increase.description": "Artan karizmanız sayesinde, ateş büyü gücünüz 1 artar.",
+
+  "power.digs_dnd_origins.tiefling/darkness.name": "Karanlık",
+  "power.digs_dnd_origins.tiefling/darkness.description": "Büyülü karanlık, nişan aldığınız bir noktadan 10 dakika süreyle yayılır. Eğer bu yetenekle bir varlığı hedef alırsanız, karanlık onunla birlikte hareket eder. Bu yeteneği ikinci kez etkinleştirmek veya hasar almak, etkisini sona erdirir.",
+
+  "power.digs_dnd_origins.tiefling/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.tiefling/darkvision.description": "Cehennemî kökenleriniz sayesinde karanlık ve loş ortamlarda üstün bir görüşe sahipsiniz.",
+
+  "power.digs_dnd_origins.tiefling/feared.name": "Korkulan",
+  "power.digs_dnd_origins.tiefling/feared.description": "Cehennemî soyağacınız çoğu kişi tarafından korku ile karşılanır. Köylüler sizinle ticaret yapmaktan korkar.",
+
+  "power.digs_dnd_origins.tiefling/hellish_rebuke.name": "Cehennemî Azap",
+  "power.digs_dnd_origins.tiefling/hellish_rebuke.description": "Bu yeteneği etkinleştirdiğinizde, size yapılan bir sonraki saldırı azapla karşılık bulur. Size zarar veren yaratık anlık olarak cehennemî alevlerle çevrelenir.",
+
+  "power.digs_dnd_origins.tiefling/hellish_resistance.name": "Cehennemî Direnç",
+  "power.digs_dnd_origins.tiefling/hellish_resistance.description": "Ateş hasarından yarı hasar alırsınız.",
+
+  "power.digs_dnd_origins.tiefling/horns.name": "Boynuzlar",
+  "power.digs_dnd_origins.tiefling/horns.description": "Cehennem mirasınız kendini gösteriyor.",
+
+  "power.digs_dnd_origins.tiefling/infernal_legacy.name": "Cehennem Mirası",
+  "power.digs_dnd_origins.tiefling/infernal_legacy.description": "Bu yetenekle, bir kez cehennemî azap ve karanlık büyülerini yapabilirsiniz. Yatağınızda uzun bir dinlenme yaptıktan sonra bu yeteneğinizi tekrar kazanırsınız.",
+
   "origin.digs_dnd_origins.halfling.name": "Yarımcık",
   "origin.digs_dnd_origins.halfling.description": "Evin konforu çoğu yarımcığın hayatının hedefleridir: yağmacı canavarlardan ve çatışan ordulardan uzakta, huzur ve sessizlik içinde yerleşilecek bir yer; alev alev yanan bir ateş ve cömert bir yemek; güzel bir içki ve güzel bir sohbet. Bu ırkı seçerseniz bir alt ırk seçmiş olursunuz.",
+
+  "origin.digs_dnd_origins.halfling/stout.name": "Kaba Yarımcık",
+  "origin.digs_dnd_origins.halfling/stout.description": "Kaba bir yarımcık olarak, ortalamadan daha dayanıklısın ve zehire karşı bir miktar direncin var.",
+
+  "origin.digs_dnd_origins.halfling/lightfoot.name": "Hafifayaklı Yarımcık",
+  "origin.digs_dnd_origins.halfling/lightfoot.description": "Hafif ayaklı bir yarımcık olarak, başkalarını siper olarak bile kullanarak kolayca dikkatlerden kaçabilirsin.",
+
+  "power.digs_dnd_origins.halfling/description_lightfoot.name": "Hafifayaklı Yarımcık",
+  "power.digs_dnd_origins.halfling/description_lightfoot.description": "Hafif ayak hobbitleri, alt ırkları arasında özellikle sinsi olup, büyük yaratıkların arkasında saklanma yeteneğine sahiptirler. Yine de, normal hobbitlerin tüm özelliklerine sahiptirler; yarı boydadırlar, biraz daha yavaş hareket ederler, oldukça şanslıdırlar ve büyük yaratıkların içinden kolayca geçebilirler.",
+
+  "power.digs_dnd_origins.halfling/description_stout.name": "Kaba Yarımcık",
+  "power.digs_dnd_origins.halfling/description_stout.description": "Kaba yarımcıklar, çoğu hobbitten daha dayanıklıdır, bunun en büyük nedeni zehir direncidir. Yine de, normal hobbitlerin tüm özelliklerine sahiptirler; yarı boydadırlar, biraz daha yavaş hareket ederler, oldukça şanslıdırlar ve büyük yaratıkların içinden kolayca geçebilirler.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/halfling_nimbleness.name": "Yarımcık Çevikliği",
+  "power.digs_dnd_origins.halfling/lightfoot/halfling_nimbleness.description": "Boyut olarak sizden büyük olan herhangi bir yaratığın alanında yavaşlamadan hareket edebilirsiniz. Bu yetenek açılıp kapatılabilir.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/lucky.name": "Şanslı",
+  "power.digs_dnd_origins.halfling/lightfoot/lucky.description": "Sandıklarda ve balık tutarken daha iyi ganimetler bulursunuz.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/naturally_stealthy.name": "Gizlilik Doğasında Var",
+  "power.digs_dnd_origins.halfling/lightfoot/naturally_stealthy.description": "Sizden daha büyük bir varlığa eğilerek yaklaşırsanız sizi (zırhınızı değil) görünmez yapar",
+
+  "power.digs_dnd_origins.halfling/lightfoot/size.name": "Boyut",
+  "power.digs_dnd_origins.halfling/lightfoot/size.description": "Bir insanın boyunun yarısı kadarsınız. Ayrıca, %30 daha az sağlık puanına sahipsiniz ve 0.5 daha az hasar veriyorsunuz. Boyutunuz küçük.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/speed.name": "Hız",
+  "power.digs_dnd_origins.halfling/lightfoot/speed.description": "Temel hızınız %10 daha yavaştır.",
+
+  "power.digs_dnd_origins.halfling/stout/halfling_nimbleness.name": "Yarımcık Çevikliği",
+  "power.digs_dnd_origins.halfling/stout/halfling_nimbleness.description": "Boyut olarak sizden büyük olan herhangi bir yaratığın alanında yavaşlamadan hareket edebilirsiniz. Bu yetenek açılıp kapatılabilir.",
+
+  "power.digs_dnd_origins.halfling/stout/lucky.name": "Şanslı",
+  "power.digs_dnd_origins.halfling/stout/lucky.description": "Sandıklarda ve balık tutarken daha iyi ganimetler bulursunuz.",
+
+  "power.digs_dnd_origins.halfling/stout/size.name": "Boyut",
+  "power.digs_dnd_origins.halfling/stout/size.description": "Bir insanın boyunun yarısı kadarsınız. Ayrıca, %30 daha az sağlık puanına sahipsiniz ve 0.5 daha az hasar veriyorsunuz. Boyutunuz küçük.",
+
+  "power.digs_dnd_origins.halfling/stout/speed.name": "Hız",
+  "power.digs_dnd_origins.halfling/stout/speed.description": "Temel hızınız %10 daha yavaştır.",
+
+  "power.digs_dnd_origins.halfling/stout/stout_resilience.name": "Kaba Dayanıklılık",
+  "power.digs_dnd_origins.halfling/stout/stout_resilience.description": "Zehir etkileri sizin için yarı sürede kalır.",
+
+  "origin.digs_dnd_origins.half-orc.name": "Yarı Ork",
+  "origin.digs_dnd_origins.half-orc.description": "Yarı orkların gri pigmentasyonları, eğimli alınları, çıkıntılı çeneleri, belirgin dişleri ve uzun yapıları, ork kökenlerini herkesin görebileceği şekilde açıkça ortaya koyar.",
+  
+  "power.digs_dnd_origins.half-orc/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.half-orc/darkvision.description": "Ork kanınız sayesinde karanlık ve loş koşullarda üstün görüşe sahipsiniz.",
+
+  "power.digs_dnd_origins.half-orc/menacing.name": "Gözdağı Verici",
+  "power.digs_dnd_origins.half-orc/menacing.description": "Gözdağı verme konusunda uzmansınız, hatta fazla uzmansınız. Köylüler, sizden korktukları için ticaret yapamıyorlar.",
+
+  "power.digs_dnd_origins.half-orc/relentless_endurance.name": "Amansız Dayanıklılık",
+  "power.digs_dnd_origins.half-orc/relentless_endurance.description": "0 sağlık puanına düştüğünüzde, 1 sağlık puanına düşersiniz. Bu yeteneği bir kez kullandıktan sonra, uzun bir dinlenme bitene kadar tekrar kullanamazsınız.",
+
+  "power.digs_dnd_origins.half-orc/savage_attacks.name": "Yırtıcı Saldırılar",
+  "power.digs_dnd_origins.half-orc/savage_attacks.description": "Yakın dövüşte %20 daha fazla hasar verirsiniz.",
+
+  "power.digs_dnd_origins.half-orc/size.name": "Boyut",
+  "power.digs_dnd_origins.half-orc/size.description": "Bir insandan daha büyüksünüz, boyutunuz orta.",
+
+  "origin.digs_dnd_origins.half-elf.name": "Yarı Elf",
+  "origin.digs_dnd_origins.half-elf.description": "İki dünyada yürüyen ama aslında hiçbirine ait olmayan yarı elfler, bazılarının elf ve insan ebeveynlerinin en iyi nitelikleri olduğunu söylediği şeyleri bir araya getirir: İnsan merakı, yaratıcılık ve hırs, elflerin gelişmiş duyuları, doğa sevgisi ve sanatsal zevkleriyle yumuşatılır.",
+  
+  "power.digs_dnd_origins.half-elf/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.half-elf/ability_score_increase.description": "Artan karizmanız sayesinde, köylüler sizin için fiyatlarını düşürüyor.",
+
+  "power.digs_dnd_origins.half-elf/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.half-elf/darkvision.description": "Elf kanınız sayesinde, karanlık ve loş koşullarda üstün bir görüşe sahipsiniz.",
+
+  "power.digs_dnd_origins.half-elf/size.name": "Boyut",
+  "power.digs_dnd_origins.half-elf/size.description": "İnsanlardan biraz daha ince, fakat elflerden daha genişsiniz ve %10 daha az sağlık puanına sahipsiniz. Boyutunuz orta.",
+
+  "power.digs_dnd_origins.half-elf/skill_versatility.name": "Yetenekli",
+  "power.digs_dnd_origins.half-elf/skill_versatility.description": "İstediğiniz iki beceride uzmanlık kazanırsınız. Bu ırkı seçerken becerilerinizi seçeceksiniz.",
+
+  "origin.digs_dnd_origins.half-elf/skills/animal_handling.name": "Hayvan Bakımı",
+  "origin.digs_dnd_origins.half-elf/skills/animal_handling.description": "Evcilleştirdiğiniz hayvanlara hiçbir zarar vermezsiniz.",
+
+  "origin.digs_dnd_origins.half-elf/skills/arcana.name": "Arcana",
+  "origin.digs_dnd_origins.half-elf/skills/arcana.description": "%20 daha hızlı xp kazanırsınız.",
+
+  "origin.digs_dnd_origins.half-elf/skills/athletics.name": "Atletizm",
+  "origin.digs_dnd_origins.half-elf/skills/athletics.description": "%10 daha fazla geri tepmeye karşı koyarsınız.",
+
+  "origin.digs_dnd_origins.half-elf/skills/medicine.name": "Şifacı",
+  "origin.digs_dnd_origins.half-elf/skills/medicine.description": "Size gelen tüm şifalar %20 oranında artar.",
+  
+  "origin.digs_dnd_origins.half-elf/skills/nature.name": "Doğa",
+  "origin.digs_dnd_origins.half-elf/skills/nature.description": "Bitkilerde kemik tozu kullanıldığında kemik tozu etkisi iki kat uygulanır.",
+  
+  "origin.digs_dnd_origins.half-elf/skills/sleight_of_hand.name": "El çabukluğu",
+  "origin.digs_dnd_origins.half-elf/skills/sleight_of_hand.description": "Eylemlerinizin çoğu, sculk sensörlerini tetiklemiyor.",
+
+  "origin.digs_dnd_origins.half-elf/skills/stealth.name": "Gizlilik",
+  "origin.digs_dnd_origins.half-elf/skills/stealth.description": "Hareketlerinizin çoğu, sculk sensörlerini tetiklemiyor.",
+
+  "origin.digs_dnd_origins.half-elf/skills/survival.name": "Hayatta Kalma",
+  "origin.digs_dnd_origins.half-elf/skills/survival.description": "Yediğiniz her bir yiyecek için ek bir açlık çubuğu kazanırsınız.",
+  
+  "origin.digs_dnd_origins.gnome.name": "Gnom",
+  "origin.digs_dnd_origins.gnome.description": "Bir gnomun yaşama enerjisi ve coşkusu, minik bedeninin her santiminden parlar. Bu ırkı seçerseniz bir alt ırk seçmiş olursunuz.",
+
+  "power.digs_dnd_origins.gnome/description_deep.name": "Yeraltı Gnomu",
+  "power.digs_dnd_origins.gnome/description_deep.description": "Yeraltı gnomları derin yer altından gelirler. Karanlıkta en iyi şekilde görebilirler ve taş etrafında oldukça sessiz olabilirler. Bununla birlikte, tüm gnomlar gibi küçüktürler ve biraz daha yavaştırlar.",
+
+  "power.digs_dnd_origins.gnome/description_forest.name": "Orman Gnomu",
+  "power.digs_dnd_origins.gnome/description_forest.description": "Orman gnomları nadir ve gizemlidir, koruma için arkadaşlık ettikleri hayvanlara güvenirler. Bununla birlikte, tüm gnomlar gibi küçüktürler, biraz daha yavaştırlar ve karanlıkta oldukça iyi görebilirler.",
+
+  "power.digs_dnd_origins.gnome/description_rock.name": "Kayalık Gnom",
+  "power.digs_dnd_origins.gnome/description_rock.description": "Kayalık gnomlar doğası gereği icatçıdır, bu yüzden bakır yapılar yaratma sırrını taşırlar. Bununla birlikte, tüm gnomlar gibi küçüktürler, biraz daha yavaştırlar ve karanlıkta oldukça iyi görebilirler.",
+
+  "power.digs_dnd_origins.gnome/deep/size.name": "Boy",
+  "power.digs_dnd_origins.gnome/deep/size.description": "Bir insanın yarısı kadar boydasınız. Ayrıca %40 daha az sağlık puanına sahip ve 0.5 daha az hasar veriyorsunuz. Boyunuz küçük.",
+
+  "power.digs_dnd_origins.gnome/deep/speed.name": "Hız",
+  "power.digs_dnd_origins.gnome/deep/speed.description": "Temel hızınız %10 daha yavaştır.",
+
+  "power.digs_dnd_origins.gnome/deep/stone_camouflage.name": "Taş Kamuflajı",
+  "power.digs_dnd_origins.gnome/deep/stone_camouflage.description": "Taşlar arasında gizlenmekte daha iyisiniz. Taşın yanındayken gizlice hareket etmek sizi (zırhınızı değil) görünmez kılar.",
+
+  "power.digs_dnd_origins.gnome/deep/superior_darkvision.name": "Üstün Gece Görüşü",
+  "power.digs_dnd_origins.gnome/deep/superior_darkvision.description": "Yeraltına alışkın olduğunuz için, görüşünüz normal gece görüşüne sahip olanlardan bile üstündür.",
+
+  "power.digs_dnd_origins.gnome/forest/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.gnome/forest/darkvision.description": "Yer altı yaşamına alışkın olduğunuz için karanlık ve loş koşullarda üstün görüşe sahipsiniz.",
+
+  "power.digs_dnd_origins.gnome/forest/size.name": "Boy",
+  "power.digs_dnd_origins.gnome/forest/size.description": "Bir insanın yarısı kadar boydasınız. Ayrıca %40 daha az sağlık puanına sahip ve 0.5 daha az hasar veriyorsunuz. Boyunuz küçük.",
+
+  "power.digs_dnd_origins.gnome/forest/speak_with_small_beasts.name": "Küçük Canlılarla Konuşma",
+  "power.digs_dnd_origins.gnome/forest/speak_with_small_beasts.description": "Sesler ve jestler aracılığıyla, küçük canlılarla basit fikirleri iletebilirsiniz. Boş bir el kullanarak, küçük hayvanları hemen evcilleştirebilirsiniz.",
+
+  "power.digs_dnd_origins.gnome/forest/speed.name": "Hız",
+  "power.digs_dnd_origins.gnome/forest/speed.description": "Temel hızınız %10 daha yavaştır.",
+
+  "power.digs_dnd_origins.gnome/rock/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.gnome/rock/darkvision.description": "Yer altı yaşamına alışkın olduğunuz için karanlık ve loş koşullarda üstün görüşe sahipsiniz.",
+
+  "power.digs_dnd_origins.gnome/rock/size.name": "Boy",
+  "power.digs_dnd_origins.gnome/rock/size.description": "Bir insanın yarısı kadar boydasınız. Ayrıca %40 daha az sağlık puanına sahip ve 0.5 daha az hasar veriyorsunuz. Boyunuz küçük.",
+
+  "power.digs_dnd_origins.gnome/rock/speed.name": "Hız",
+  "power.digs_dnd_origins.gnome/rock/speed.description": "Temel hızınız %10 daha yavaştır.",
+
+  "power.digs_dnd_origins.gnome/rock/tinker.name": "Tamirci",
+  "power.digs_dnd_origins.gnome/rock/tinker.description": "Bir kurmalı oyuncak kurbağa inşa edebilirsiniz. Yere yerleştirildiğinde, oyuncak yürüyüş hızından daha yavaş bir hızla rastgele yönlere hareket eder.",
+
+  "origin.digs_dnd_origins.gnome/deep.name": "Yeraltı Gnomu",
+  "origin.digs_dnd_origins.gnome/deep.description": "Duyarlı ve dışarıdan gelenlere karşı şüpheci olan Svirfneblinler, kurnaz ve sessizdirler, ancak yüzeyde yaşayan kuzenleri kadar iyi kalpli, sadık ve merhametli olabilirler.",
+
+  "origin.digs_dnd_origins.gnome/forest.name": "Orman Gnomu",
+  "origin.digs_dnd_origins.gnome/forest.description": "Orman gnomları, genellikle diğer iyi niyetli orman halkı ile dosttur ve elfleri ve iyi perileri en önemli müttefikleri olarak görürler.",
+
+  "origin.digs_dnd_origins.gnome/rock.name": "Kayalık Gnomu",
+  "origin.digs_dnd_origins.gnome/rock.description": "Bir Kayalık Gnomu olarak, diğer gnomların ötesinde doğal bir yaratıcılığa ve dayanıklılığa sahipsiniz.",
+
+  "origin.digs_dnd_origins.elf.name": "Elf",
+  "origin.digs_dnd_origins.elf.description": "Elfler, dünyada yaşayan ancak tamamen onun bir parçası olmayan, dünya dışı zarafete sahip büyülü bir halktır. Bu ırkı seçerseniz bir alt ırk seçeceksiniz.",
+
+  "power.digs_dnd_origins.elf/description_dark.name": "Kara Elf",
+  "power.digs_dnd_origins.elf/description_dark.description": "Kara elfler, yüzey dünyasından sürgüne gönderilmiş ve karanlığa alışkın hale gelmişlerdir. Üstün karanlık görüşe sahiptirler, ancak gün ışığında sınırlı görüşleri vardır. Ayrıca diğer elflerden farklı silahlar konusunda uzmanlıkları vardır ve karanlık büyüsünü kullanabilirler.",
+
+  "power.digs_dnd_origins.elf/description_high.name": "Yüce Elf",
+  "power.digs_dnd_origins.elf/description_high.description": "Yüce elflerin büyü için doğal bir yetenekleri vardır. Gizemli hasar onlarla daha iyi ölçeklenir, elf silah eğitimi alırlar ve ayrıca karanlık görüş ve daha zayıf olma gibi normal elf özelliklerine sahiptirler.",
+
+  "power.digs_dnd_origins.elf/description_wood.name": "Orman Elfi",
+  "power.digs_dnd_origins.elf/description_wood.description": "Orman elfleri ormanlara özgüdür ve kendi elementlerinde olduklarında belirgin bir avantaja sahiptirler. Yeşilliklerde saklanmaları daha kolaydır, biraz daha hızlıdırlar, elf silahları konusunda eğitim almışlardır ve karanlık görüş ve daha zayıf olma gibi normal elf özelliklerine sahiptirler.",
+
+  "power.digs_dnd_origins.elf/dark/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.elf/dark/ability_score_increase.description": "Artan zekanız sayesinde, donma büyü gücünüz 1 artar.",
+
+  "power.digs_dnd_origins.elf/dark/darkness.name": "Karanlık",
+  "power.digs_dnd_origins.elf/dark/darkness.description": "Büyülü karanlık, nişan aldığınız bir noktadan 5 blok yarıçaplı bir küreyi dolduracak şekilde yayılır. Karanlık görme yetisine sahip bir yaratık bu karanlığın içinden göremez ve normal ışık bunu aydınlatamaz. Seçtiğin nokta bir varlık ise, karanlık onlardan yayılır ve onlarla birlikte hareket eder. Bu yeteneği ikinci kez aktive etmek veya hasar almak, etkisini erken sona erdirir.",
+
+  "power.digs_dnd_origins.elf/dark/drow_magic.name": "Drow Büyüsü",
+  "power.digs_dnd_origins.elf/dark/drow_magic.description": "Bu yetenekle, her gün bir kez faerie fire ve darkness büyülerini kullanabilirsin. Bu yetenek, uzun bir dinlenme süresinden sonra yeniden kazanılır. Bu büyülerin her ikisi de konsantrasyon gerektirir ve aynı anda aktif olamazlar.",
+
+  "power.digs_dnd_origins.elf/dark/drow_weapon_training.name": "Drow Silah Eğitimi",
+  "power.digs_dnd_origins.elf/dark/drow_weapon_training.description": "Kılıçlar, rapierler ve çapraz oklarla 2 daha fazla hasar veriyorsun.",
+
+  "power.digs_dnd_origins.elf/dark/faerie_fire.name": "Peri Ateşi",
+  "power.digs_dnd_origins.elf/dark/faerie_fire.description": "Hedef konumun 6 blokluk bir alanındaki her varlık parlayan etkisi alacak. Bu alan 1 dakika boyunca parlayan varlıklar olarak kalacaktır. Bu yeteneği ikinci kez etkinleştirmek veya hasar almak etkinin erken bitmesine neden olacaktır.",
+
+  "power.digs_dnd_origins.elf/dark/size.name": "Boyut",
+  "power.digs_dnd_origins.elf/dark/size.description": "İnsanlardan biraz daha ince yapılısınız ve %20 daha az sağlık puanına sahipsiniz. Boyutunuz orta.",
+
+  "power.digs_dnd_origins.elf/dark/sunlight_sensitivity.name": "Güneş Işığı Duyarlılığı",
+  "power.digs_dnd_origins.elf/dark/sunlight_sensitivity.description": "Doğrudan güneş ışığı altında görüşünüz azalır.",
+
+  "power.digs_dnd_origins.elf/dark/superior_darkvision.name": "Üstün Gece Görüşü",
+  "power.digs_dnd_origins.elf/dark/superior_darkvision.description": "Yeraltına alışkın olduğunuz için, görüşünüz normal gece görüşüne sahip olanlardan bile üstündür.",
+
+  "power.digs_dnd_origins.elf/dark/trance.name": "Meditasyon",
+  "power.digs_dnd_origins.elf/dark/trance.description": "Elfler uyumaya ihtiyaç duymaz. Bunun yerine, günde 4 saat boyunca derin bir meditasyon yaparak yarı bilinçli kalırlar. Uykusuzluğunuz yarı hızda birikir.",
+
+  "power.digs_dnd_origins.elf/high/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.elf/high/ability_score_increase.description": "Artan zekânız sayesinde, arcane büyü gücünüz 1 artar.",
+
+  "power.digs_dnd_origins.elf/high/cantrip.name": "Büyülü Söz",
+  "power.digs_dnd_origins.elf/high/cantrip.description": "Aşağıdaki listedeki büyülü sözlerden birini seçersiniz: Ateş Topu, Zehirli Püskürme, Buzlanma Işını veya Şimşek Çekimi. Bu alt ırkı seçtiğinizde büyülü sözünüzü belirleyeceksiniz.",
+
+  "power.digs_dnd_origins.elf/high/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.elf/high/darkvision.description": "Loş ormanlar ve gece gökyüzüne alışkın olduğunuz için karanlık veya loş koşullarda üstün bir görüş yeteneğine sahipsiniz.",
+
+  "power.digs_dnd_origins.elf/high/elf_weapon_training.name": "Elf Silah Eğitimi",
+  "power.digs_dnd_origins.elf/high/elf_weapon_training.description": "Kılıç ve yayda ustalığınız var, her ikisiyle de 2 ekstra hasar veriyorsunuz.",
+
+  "power.digs_dnd_origins.elf/high/size.name": "Boyut",
+  "power.digs_dnd_origins.elf/high/size.description": "İnsanlardan biraz daha ince yapılısınız ve %20 daha az sağlık puanına sahipsiniz. Boyutunuz orta.",
+
+  "power.digs_dnd_origins.elf/high/trance.name": "Meditasyon",
+  "power.digs_dnd_origins.elf/high/trance.description": "Elfler uyumaya ihtiyaç duymaz. Bunun yerine, günde 4 saat boyunca derin bir meditasyon yaparak yarı bilinçli kalırlar. Uykusuzluğunuz yarı hızda birikir.",
+
+  "power.digs_dnd_origins.elf/high/cantrips/firebolt.name": "Menzil",
+  "power.digs_dnd_origins.elf/high/cantrips/firebolt.description": "35 Blok",
+
+  "power.digs_dnd_origins.elf/high/cantrips/lightning_lure.name": "Menzil",
+  "power.digs_dnd_origins.elf/high/cantrips/lightning_lure.description": "11 Blok",
+
+  "power.digs_dnd_origins.elf/high/cantrips/poison_spray.name": "Menzil",
+  "power.digs_dnd_origins.elf/high/cantrips/poison_spray.description": "8 Blok",
+
+  "power.digs_dnd_origins.elf/high/cantrips/ray_of_frost.name": "Menzil",
+  "power.digs_dnd_origins.elf/high/cantrips/ray_of_frost.description": "18 Blok",
+
+  "power.digs_dnd_origins.elf/wood/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.elf/wood/darkvision.description": "Loş ormanlar ve gece gökyüzüne alışkın olduğunuz için karanlık veya loş koşullarda üstün bir görüş yeteneğine sahipsiniz.",
+
+  "power.digs_dnd_origins.elf/wood/elf_weapon_training.name": "Elf Silah Eğitimi",
+  "power.digs_dnd_origins.elf/wood/elf_weapon_training.description": "Kılıç ve yayda ustalığınız var, her ikisiyle de 2 ekstra hasar veriyorsunuz.",
+
+  "power.digs_dnd_origins.elf/wood/fleet_of_foot.name": "Hızlı Ayaklar",
+  "power.digs_dnd_origins.elf/wood/fleet_of_foot.description": "Temel yürüme hızınız %10 daha hızlıdır.",
+
+  "power.digs_dnd_origins.elf/wood/mask_of_the_wild.name": "Yabanın Maskesi",
+  "power.digs_dnd_origins.elf/wood/mask_of_the_wild.description": "Yeşilliklere yaslanarak gizlice yürümek, sizi (zırhınızı değil) görünmez kılar.",
+
+  "power.digs_dnd_origins.elf/wood/size.name": "Boyut",
+  "power.digs_dnd_origins.elf/wood/size.description": "İnsanlardan biraz daha ince yapılısınız ve %20 daha az sağlık puanına sahipsiniz. Boyutunuz orta.",
+
+  "power.digs_dnd_origins.elf/wood/trance.name": "Meditasyon",
+  "power.digs_dnd_origins.elf/wood/trance.description": "Elfler uyumaya ihtiyaç duymaz. Bunun yerine, günde 4 saat boyunca derin bir meditasyon yaparak yarı bilinçli kalırlar. Uykusuzluğunuz yarı hızda birikir.",
+
+  "origin.digs_dnd_origins.elf/dark.name": "Kara Elf",
+  "origin.digs_dnd_origins.elf/dark.description": "Kara elfler olarak da adlandırılan Drow'ların kömür veya obsidyene benzeyen bir derileri ve bembeyaz veya soluk sarı saçları vardır.",
+
+  "origin.digs_dnd_origins.elf/high.name": "Yüce Elf",
+  "origin.digs_dnd_origins.elf/high.description": "Bir Yüce Elf olarak, keskin bir zekaya ve en azından büyü temellerine hakimsiniz.",
+
+  "origin.digs_dnd_origins.elf/wood.name": "Orman Elfi",
+  "origin.digs_dnd_origins.elf/wood.description": "Bir Orman Elfi olarak, keskin duyulara ve sezgiye sahipsiniz ve hızlı ve gizli bir şekilde doğduğunuz ormanlarda gezmenizi sağlayan çevik ayaklarınız var.",
+
+  "origin.digs_dnd_origins.elf/cantrips/firebolt.name": "Ateş Topu",
+  "origin.digs_dnd_origins.elf/cantrips/firebolt.description": "Menzildeki bir yaratık veya nesneye bir ateş kıvılcımı fırlatırsınız. Vuruşta hedef, 3 ateş hasarı alır. Bu büyüyle vurulan herhangi bir hedef tutuşur ve 2 ateş vuruşu boyunca yanmaya devam eder.",
+
+  "origin.digs_dnd_origins.elf/cantrips/lightning_lure.name": "Şimşek Çekimi",
+  "origin.digs_dnd_origins.elf/cantrips/lightning_lure.description": "Hedeflediğiniz bir yaratığa vuran bir şimşek enerjisi kırbacı oluşturursunuz. Vuruşta hedef, 4 şimşek hasarı alır ve yarım saniyeliğine sersemletir.",
+
+  "origin.digs_dnd_origins.elf/cantrips/poison_spray.name": "Zehirli Püskürme",
+  "origin.digs_dnd_origins.elf/cantrips/poison_spray.description": "Menzilde görebildiğiniz bir yaratığa doğru elinizi uzatır ve avucunuzdan bir zehirli gaz bulutu püskürtürsünüz. Vuruşta hedef, 4 solgun hasarı alır ve 3 saniye boyunca zehirlenir.",
+
+  "origin.digs_dnd_origins.elf/cantrips/ray_of_frost.name": "Buzlanma Işını",
+  "origin.digs_dnd_origins.elf/cantrips/ray_of_frost.description": "Menzildeki bir yaratığa doğru mavi-beyaz bir buz ışını hüzmelenir.",
+  
+  "origin.digs_dnd_origins.dwarf.name": "Cüce",
+  "origin.digs_dnd_origins.dwarf.description": "Cesur ve dayanıklı cüceler, yetenekli savaşçılar, madenciler ve taş ve metal işçileri olarak bilinirler. Bu ırkı seçerseniz bir alt ırk seçmiş olursunuz.",
+
+  "power.digs_dnd_origins.dwarf/description_hill.name": "Tepe Cücesi",
+  "power.digs_dnd_origins.dwarf/description_hill.description": "Tepe cüceleri, çoğu diğer küçük ırkların sağlıklarından daha fazla sağlıkları olduğu için cücelerin daha dayanıklı olanlarıdır. Bunun yanı sıra, normal cüce özelliklerine sahip olup, bir insanın 3/4 boyunda, karanlık görüşe, zehire karşı direnç gösterirler ve balta silahlarıyla daha yeteneklidirler.",
+
+  "power.digs_dnd_origins.dwarf/description_mountain.name": "Dağ Cüceleri",
+  "power.digs_dnd_origins.dwarf/description_mountain.description": "Dağ cüceleri ağır zırhlarla daha iyi eğitimlidir ve çoğu kişinin yavaşlayacağı yerlerde yavaşlamazlar. Bunun yanı sıra, normal cüce özelliklerine sahip olup, bir insanın 3/4 boyunda, karanlık görüşe, zehire karşı direnç gösterirler ve balta silahlarıyla daha yeteneklidirler.",
+
+  "power.digs_dnd_origins.dwarf/hill/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.dwarf/hill/darkvision.description": "Yer altı yaşamına alışkın olduğunuz için karanlık ve loş koşullarda üstün görüşe sahipsiniz.",
+
+  "power.digs_dnd_origins.dwarf/hill/dwarven_combat_training.name": "Cüce Savaş Eğitimi",
+  "power.digs_dnd_origins.dwarf/hill/dwarven_combat_training.description": "Balta kullanımı konusunda yetkinlik kazanırsınız ve onlarla +2 hasar verirsiniz.",
+
+  "power.digs_dnd_origins.dwarf/hill/dwarven_resilience.name": "Cüce Dayanıklılığı",
+  "power.digs_dnd_origins.dwarf/hill/dwarven_resilience.description": "Zehirlenme durum etkisi sizin için yarı yarıya daha kısa sürer.",
+
+  "power.digs_dnd_origins.dwarf/hill/dwarven_toughness.name": "Cüce Sağlamlığı",
+  "power.digs_dnd_origins.dwarf/hill/dwarven_toughness.description": "Sağlığınız, diğer çoğu küçük ırkın %40'ı yerine yalnızca %30 azalır.",
+
+  "power.digs_dnd_origins.dwarf/hill/size.name": "Boyut",
+  "power.digs_dnd_origins.dwarf/hill/size.description": "Bir buçuk blok boyundasınız. Ayrıca, %10 daha az sağlık puanına sahipsiniz. Boyutunuz orta.",
+
+  "power.digs_dnd_origins.dwarf/hill/speed.name": "Hız",
+  "power.digs_dnd_origins.dwarf/hill/speed.description": "Temel yürüme hızınız %10 daha yavaştır.",
+
+  "power.digs_dnd_origins.dwarf/hill/tool_proficiency.name": "Alet Yeterliliği",
+  "power.digs_dnd_origins.dwarf/hill/tool_proficiency.description": "Duvarcı aletlerinde yeterlilik kazanırsınız ve her türlü cevheri taş kazma ile veya daha iyisi ile madencilik yapabilirsiniz.",
+
+  "power.digs_dnd_origins.dwarf/mountain/darkvision.name": "Gece Görüşü",
+  "power.digs_dnd_origins.dwarf/mountain/darkvision.description": "Yer altı yaşamına alışkın olduğunuz için karanlık ve loş koşullarda üstün görüşe sahipsiniz.",
+
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_armor_training.name": "Cüce Zırh Eğitimi",
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_armor_training.description": "Tam bir set zırh giydiğinizde, size +2 zırh dayanıklılığı sağlayan zırh konusunda uzmanlığa sahipsiniz.",
+
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_combat_training.name": "Cüce Savaş Eğitimi",
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_combat_training.description": "Balta ile uzmanlık kazandınız ve onlarla +2 hasar veriyorsunuz.",
+
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_resilience.name": "Cüce Dayanıklılığı",
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_resilience.description": "Zehirlenme durum etkisi sizin için yarı yarıya daha kısa sürer.",
+
+  "power.digs_dnd_origins.dwarf/mountain/size.name": "Boyut",
+  "power.digs_dnd_origins.dwarf/mountain/size.description": "Bir buçuk blok boyundasınız. Ayrıca, %20 daha az sağlık puanına sahipsiniz. Boyutunuz orta.",
+
+  "power.digs_dnd_origins.dwarf/mountain/speed.name": "Hız",
+  "power.digs_dnd_origins.dwarf/mountain/speed.description": "Temel yürüme hızınız %10 daha yavaştır.",
+
+  "power.digs_dnd_origins.dwarf/mountain/tool_proficiency.name": "Alet Yeterliliği",
+  "power.digs_dnd_origins.dwarf/mountain/tool_proficiency.description": "Tuğla ustası aletlerine yetkinlik kazanırsınız; herhangi bir madeni taş kazması veya daha üstü ile madenleri çıkarabilirsiniz.",
+
+  "origin.digs_dnd_origins.dwarf/hill.name": "Tepe Cücesi",
+  "origin.digs_dnd_origins.dwarf/hill.description": "Bir Tepe Cücesi olarak, keskin duyulara, derin sezgiye ve olağanüstü dayanıklılığa sahipsiniz.",
+
+  "origin.digs_dnd_origins.dwarf/mountain.name": "Dağ Cücesi",
+  "origin.digs_dnd_origins.dwarf/mountain.description": "Bir Dağ Cücesi olarak, güçlü ve dayanıklısınız, engebeli arazide zorlu bir hayata alışkınsınız.",
+  
+  "origin.digs_dnd_origins.dragonborn.name": "Ejderdoğan",
+  "origin.digs_dnd_origins.dragonborn.description": "Adları da gösterdiği gibi ejderlerden doğan Ejderdoğanlar, onları korkunç bir anlayışsızlıkla karşılayan bir dünyada gururla yürürler. Bu ırkı seçerseniz, bir alt ırk da seçmeniz gerekecektir.",
+
+  "origin.digs_dnd_origins.dragonborn/black.name": "Kara Ejderdoğan",
+  "origin.digs_dnd_origins.dragonborn/black.description": "Kara Ejderdoğanlar, antik kara ejderhaların torunlarıdır ve bu nedenle atalarının bazı yetenekleri onlarda ortaya çıkar.",
+
+  "origin.digs_dnd_origins.dragonborn/blue.name": "Mavi Ejderdoğan",
+  "origin.digs_dnd_origins.dragonborn/blue.description": "Mavi Ejderdoğanlar, antik mavi ejderhaların torunlarıdır ve bu nedenle atalarının bazı yetenekleri onlarda ortaya çıkar.",
+
+  "origin.digs_dnd_origins.dragonborn/brass.name": "Pirinç Ejderdoğan",
+  "origin.digs_dnd_origins.dragonborn/brass.description": "Pirinç Ejderdoğanlar, antik pirinç ejderhaların torunlarıdır ve bu nedenle atalarının bazı yetenekleri onlarda ortaya çıkar.",
+
+  "origin.digs_dnd_origins.dragonborn/green.name": "Yeşil Ejderdoğan",
+  "origin.digs_dnd_origins.dragonborn/green.description": "Yeşil Ejderdoğanlar, antik yeşil ejderhaların torunlarıdır ve bu nedenle atalarının bazı yetenekleri onlarda ortaya çıkar.",
+
+  "origin.digs_dnd_origins.dragonborn/red.name": "Kırmızı Ejderdoğan",
+  "origin.digs_dnd_origins.dragonborn/red.description": "Kırmızı Ejderdoğanlar, antik kırmızı ejderhaların torunlarıdır ve bu nedenle atalarının bazı yetenekleri onlarda ortaya çıkar.",
+
+  "origin.digs_dnd_origins.dragonborn/white.name": "Beyaz Ejderdoğan",
+  "origin.digs_dnd_origins.dragonborn/white.description": "Beyaz Ejderdoğanlar, antik beyaz ejderhaların torunlarıdır ve bu nedenle atalarının bazı yetenekleri onlarda ortaya çıkar.",
+
+  "layer.origins.skills/skills.name": "Yetenek",
+  "layer.origins.skills/half-elf_skills.name": "Yetenek Çeşitliliği",
+  "layer.origins.feats/variant_human_feats.name": "Ustalık",
+  "layer.origins.elf.name": "Elf Soyu",
+  "layer.origins.dragonborn.name": "Ejder Atanız",
+  "layer.origins.dwarf.name": "Cüce Soyu",
+  "layer.origins.gnome.name": "Gnom Torunu",
+  "layer.origins.halfling.name": "Yarımcık Torunu",
+  "layer.origins.skills/skilled_feat_1.name": "Yetenek 1",
+  "layer.origins.skills/skilled_feat_2.name": "Yetenek 2",
+  "layer.origins.skills/skilled_feat_3.name": "Yetenek 3",
+  "layer.origins.cantrips/cantrips.name": "Büyülü Söz",
 
   "item.digs_dnd_origins.red_scale": "Kırmızı Kabuk",
   "item.digs_dnd_origins.blue_scale": "Mavi Kabuk",
