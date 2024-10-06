@@ -5,11 +5,15 @@
 	"name": "Digs DnD Origins",
 	"description": "Origin races based on the the tabletop game Dungeons and Dragons!",
 	"authors": [
-		"DistantDig"
+		"DistantDig",
+		"Annijang",
+		"LazyDope",
+		"YahyaOzsoy"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/digs-dnd-origins",
+		"sources": "https://github.com/DistantDig/digs-dnd-origins",
+		"issues": "https://github.com/DistantDig/digs-dnd-origins/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/digs_dnd_origins/icon.png",
@@ -33,6 +37,7 @@
 		"minecraft": "~1.20",
 		"java": ">=17",
 
+		"origins": ">=1.10.0",
 		"pehkui": ">=3.7.5",
 		"geckolib": ">=4.2",
 		"fabric-api": "*"
