@@ -1,4 +1,533 @@
 {
+  "origin.digs_dnd_origins.variant_human.name": "Variant Human",
+  "origin.digs_dnd_origins.variant_human.description": "With their penchant for migration and conquest, humans are more physically diverse than other common races.",
+
+  "power.digs_dnd_origins.variant_human/feat.name": "Feat",
+  "power.digs_dnd_origins.variant_human/feat.description": "You gain one feat of your choice. You will select your feat upon selecting this race.",
+
+  "origin.digs_dnd_origins.variant_human/feats/charger.name": "Charger",
+  "origin.digs_dnd_origins.variant_human/feats/charger.description": "While you are sprinting, you can choose to either shove or deal extra damage to a creature. If you hit a target while your hand is empty, you have significantly more knockback, but if you hit the creature with a weapon you will gain +4 to the damage you deal. This ability has a 6 second cooldown and you cannot sprint in that time.",
+
+  "origin.digs_dnd_origins.variant_human/feats/heavily_armored.name": "Heavily Armored",
+  "origin.digs_dnd_origins.variant_human/feats/heavily_armored.description": "You have trained to master the use of heavy armor. You gain proficiency with heavy armor, giving you +2 to your armor toughness while a full set of diamond or stronger is equipped. You are 10% slower while benefiting from this effect.",
+
+  "origin.digs_dnd_origins.variant_human/feats/lightly_armored.name": "Lightly Armored",
+  "origin.digs_dnd_origins.variant_human/feats/lightly_armored.description": "You have trained to master the use of light armor. You gain proficiency with light armor, giving you +2 to your armor toughness while a full set of chainmail or lighter is equipped. You are 5% slower while benefiting from this effect.",
+
+  "origin.digs_dnd_origins.variant_human/feats/mobile.name": "Mobile",
+  "origin.digs_dnd_origins.variant_human/feats/mobile.description": "Your speed increases by 20% but your exhaustion increases by 30%.",
+
+  "origin.digs_dnd_origins.variant_human/feats/moderately_armored.name": "Moderate Armor",
+  "origin.digs_dnd_origins.variant_human/feats/moderately_armored.description": "You have trained to master the use of medium armor. You gain proficiency with medium armor, giving you +2 to your armor toughness while a full set of armor heavier than chainmail but lighter than diamond is equipped. You are 7% slower while benefiting from this effect.",
+
+  "origin.digs_dnd_origins.variant_human/feats/sentinel.name": "Sentinel",
+  "origin.digs_dnd_origins.variant_human/feats/sentinel.description": "When you hit a creature who is facing away from you, either for running away or attacking and ally, the target will be stunned for 6 seconds. This ability has a 6 second cooldown and does not work on other sentinels. You take 50% increased damage from projectiles.",
+
+  "origin.digs_dnd_origins.variant_human/feats/skilled.name": "Skilled",
+  "origin.digs_dnd_origins.variant_human/feats/skilled.description": "You gain proficiency in three additional skills of your choice, but all skills will be half as effective. You will choose your skills upon selecting this feat.",
+
+  "origin.digs_dnd_origins.variant_human/feats/skulker.name": "Skulker",
+  "origin.digs_dnd_origins.variant_human/feats/skulker.description": "You are expert at slinking through shadows. Sneaking while in light level 7 or less will render you (but not your armor) invisible. Sky light level is taken into account for this feat.",
+
+  "origin.digs_dnd_origins.variant_human/feats/tough.name": "Tough",
+  "origin.digs_dnd_origins.variant_human/feats/tough.description": "Your health point maximum increases by 20%, but your ranged attack damage is reduced by 30%.",
+
+  "power.digs_dnd_origins.variant_human/skills.name": "Skills",
+  "power.digs_dnd_origins.variant_human/skills.description": "You gain proficiency in one skill of your choice. You will select your skill upon selecting this race.",
+
+  "origin.digs_dnd_origins.tiefling.name": "Tiefling",
+  "origin.digs_dnd_origins.tiefling.description": "Tieflings are derived from human bloodlines, and in the broadest possible sense, they still look human. However, their infernal heritage has left a clear imprint on their appearance.",
+
+  "power.digs_dnd_origins.tiefling/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.tiefling/ability_score_increase.description": "Due to your increased charisma, your fire spell power is increased by 1.",
+
+  "power.digs_dnd_origins.tiefling/darkness.name": "Darkness",
+  "power.digs_dnd_origins.tiefling/darkness.description": "Magical darkness spreads from a point you are aiming at for a duration of 10 minutes. If you target an entity with this ability then the darkness moves with them. Activating this ability a second time or taking damage will cause the effect to drop.",
+
+  "power.digs_dnd_origins.tiefling/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.tiefling/darkvision.description": "Thanks to your infernal heritage, you have superior vision in dark and dim conditions.",
+
+  "power.digs_dnd_origins.tiefling/feared.name": "Feared",
+  "power.digs_dnd_origins.tiefling/feared.description": "Your infernal ancestry is feared by most. Villagers are too afraid of you to trade.",
+
+  "power.digs_dnd_origins.tiefling/hellish_rebuke.name": "Hellish Rebuke",
+  "power.digs_dnd_origins.tiefling/hellish_rebuke.description": "Activating this ability will cause the next attack against you to be rebuked. The creature who damaged you is momentarily surrounded by hellish flames.",
+
+  "power.digs_dnd_origins.tiefling/hellish_resistance.name": "Hellish Resistance",
+  "power.digs_dnd_origins.tiefling/hellish_resistance.description": "You take half damage from fire damage.",
+
+  "power.digs_dnd_origins.tiefling/horns.name": "Horns",
+  "power.digs_dnd_origins.tiefling/horns.description": "Your infernal legacy shows.",
+
+  "power.digs_dnd_origins.tiefling/infernal_legacy.name": "Infernal Legacy",
+  "power.digs_dnd_origins.tiefling/infernal_legacy.description": "You can cast the hellish rebuke and darkness spells once each with this ability. You regain the ability to do so once you take a long rest in a bed.",
+
+  "origin.digs_dnd_origins.halfling.name": "Halfling",
+  "origin.digs_dnd_origins.halfling.description": "The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. You will pick a sub race if you pick this race.",
+
+  "origin.digs_dnd_origins.halfling/stout.name": "Stout Halfling",
+  "origin.digs_dnd_origins.halfling/stout.description": "As a stout halfling, you’re hardier than average and have some resistance to poison.",
+
+  "origin.digs_dnd_origins.halfling/lightfoot.name": "Lightfoot Halfling",
+  "origin.digs_dnd_origins.halfling/lightfoot.description": "As a lightfoot halfling, you can easily hide from notice, even using other people as cover.",
+
+  "power.digs_dnd_origins.halfling/description_lightfoot.name": "Lightfoot Halfling",
+  "power.digs_dnd_origins.halfling/description_lightfoot.description": "Lightfoot halflings are especially sneaky of the sub races, able to hide behind larger creatures. Still, they have all the regular halfling traits of being half as tall, slightly slower, rather lucky and the ability to run through larger creatures with ease.",
+
+  "power.digs_dnd_origins.halfling/description_stout.name": "Stout Halfling",
+  "power.digs_dnd_origins.halfling/description_stout.description": "Stout halflings are more resilient than most halflings, mostly because they are resistant to poison. Still, they have all the regular halfling traits of being half as tall, slightly slower, rather lucky and the ability to run through larger creatures with ease.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/halfling_nimbleness.name": "Halfling Nimbleness",
+  "power.digs_dnd_origins.halfling/lightfoot/halfling_nimbleness.description": "You can move through the space of any creature that is a size larger than you without being slowed by entity collision. This ability can be toggled.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/lucky.name": "Lucky",
+  "power.digs_dnd_origins.halfling/lightfoot/lucky.description": "You find better loot in chests and when fishing.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/naturally_stealthy.name": "Naturally Stealthy",
+  "power.digs_dnd_origins.halfling/lightfoot/naturally_stealthy.description": "Sneaking while up against an entity larger that you will render you (but not your armor) invisible.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/size.name": "Size",
+  "power.digs_dnd_origins.halfling/lightfoot/size.description": "You are half as tall as a human. You also have 40% less health points and deal 0.5 less damage. Your size is small.",
+
+  "power.digs_dnd_origins.halfling/lightfoot/speed.name": "Speed",
+  "power.digs_dnd_origins.halfling/lightfoot/speed.description": "Your base speed is 10% slower.",
+
+  "power.digs_dnd_origins.halfling/stout/halfling_nimbleness.name": "Halfling Nimbleness",
+  "power.digs_dnd_origins.halfling/stout/halfling_nimbleness.description": "You can move through the space of any creature that is a size larger than you without being slowed by entity collision. This ability can be toggled.",
+
+  "power.digs_dnd_origins.halfling/stout/lucky.name": "Lucky",
+  "power.digs_dnd_origins.halfling/stout/lucky.description": "You find better loot in chests and when fishing.",
+
+  "power.digs_dnd_origins.halfling/stout/size.name": "Size",
+  "power.digs_dnd_origins.halfling/stout/size.description": "You are half as tall as a human. You also have 30% less health points and deal 0.5 less damage. Your size is small.",
+
+  "power.digs_dnd_origins.halfling/stout/speed.name": "Speed",
+  "power.digs_dnd_origins.halfling/stout/speed.description": "Your base speed is 10% slower.",
+
+  "power.digs_dnd_origins.halfling/stout/stout_resilience.name": "Stout Resilience",
+  "power.digs_dnd_origins.halfling/stout/stout_resilience.description": "Poisons last half as long for you.",
+
+  "origin.digs_dnd_origins.half-orc.name": "Half-Orc",
+  "origin.digs_dnd_origins.half-orc.description": "Half-orcs’ grayish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and towering builds make their orcish heritage plain for all to see.",
+  
+  "power.digs_dnd_origins.half-orc/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.half-orc/darkvision.description": "Thanks to your orc blood, you have superior vision in dark and dim conditions.",
+
+  "power.digs_dnd_origins.half-orc/menacing.name": "Intimidating",
+  "power.digs_dnd_origins.half-orc/menacing.description": "You are proficient in being intimidating, too proficient. Villagers are too afraid of you to trade.",
+
+  "power.digs_dnd_origins.half-orc/relentless_endurance.name": "Relentless Endurance",
+  "power.digs_dnd_origins.half-orc/relentless_endurance.description": "When you are reduced to 0 health points, you are reduced to 1 instead. Once you use this trait, you can't use it again until you finish a long rest.",
+
+  "power.digs_dnd_origins.half-orc/savage_attacks.name": "Savage Attacks",
+  "power.digs_dnd_origins.half-orc/savage_attacks.description": "You deal 20% more melee damage",
+
+  "power.digs_dnd_origins.half-orc/size.name": "Size",
+  "power.digs_dnd_origins.half-orc/size.description": "You are larger than a human, your size is medium.",
+
+  "origin.digs_dnd_origins.half-elf.name": "Half-Elf",
+  "origin.digs_dnd_origins.half-elf.description": "Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf an human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves.",
+
+  "power.digs_dnd_origins.half-elf/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.half-elf/ability_score_increase.description": "Due to your increased charisma, villagers reduce their prices for you.",
+
+  "power.digs_dnd_origins.half-elf/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.half-elf/darkvision.description": "Thanks to your elf blood, you have superior vision in dark and dim conditions.",
+
+  "power.digs_dnd_origins.half-elf/size.name": "Size",
+  "power.digs_dnd_origins.half-elf/size.description": "You are slightly slimmer than humans, but broader than an elf and you have 10% less health points. Your size is medium.",
+
+  "power.digs_dnd_origins.half-elf/skill_versatility.name": "Skill Versatility",
+  "power.digs_dnd_origins.half-elf/skill_versatility.description": "You gain proficiency in two skills of your choice. You will select your skills upon selecting this race.",
+  
+  "origin.digs_dnd_origins.half-elf/skills/animal_handling.name": "Animal Handling",
+  "origin.digs_dnd_origins.half-elf/skills/animal_handling.description": "You deal no damage to animals tamed by you.",
+
+  "origin.digs_dnd_origins.half-elf/skills/arcana.name": "Arcana",
+  "origin.digs_dnd_origins.half-elf/skills/arcana.description": "You gain xp 20% faster.",
+
+  "origin.digs_dnd_origins.half-elf/skills/athletics.name": "Athletics",
+  "origin.digs_dnd_origins.half-elf/skills/athletics.description": "You deal and resist 10% more knockback.",
+
+  "origin.digs_dnd_origins.half-elf/skills/medicine.name": "Medicine",
+  "origin.digs_dnd_origins.half-elf/skills/medicine.description": "All healing for you is increased by 20%.",
+  
+  "origin.digs_dnd_origins.half-elf/skills/nature.name": "Nature",
+  "origin.digs_dnd_origins.half-elf/skills/nature.description": "When using bonemeal on crops, the bonemeal effect is applied twice.",
+  
+  "origin.digs_dnd_origins.half-elf/skills/sleight_of_hand.name": "Sleight of Hand",
+  "origin.digs_dnd_origins.half-elf/skills/sleight_of_hand.description": "Most of your actions do not trigger sculk sensors.",
+
+  "origin.digs_dnd_origins.half-elf/skills/stealth.name": "Stealth",
+  "origin.digs_dnd_origins.half-elf/skills/stealth.description": "Most of your movements do not trigger sculk sensors.",
+
+  "origin.digs_dnd_origins.half-elf/skills/survival.name": "Survival",
+  "origin.digs_dnd_origins.half-elf/skills/survival.description": "You gain an additional hunger bar for each item you eat.",
+
+  "origin.digs_dnd_origins.gnome.name": "Gnome",
+  "origin.digs_dnd_origins.gnome.description": "A gnome’s energy and enthusiasm for living shines through every inch of their tiny body. You will pick a sub race if you pick this race.",
+
+  "power.digs_dnd_origins.gnome/description_deep.name": "Deep Gnome",
+  "power.digs_dnd_origins.gnome/description_deep.description": "Deep gnomes are from deep underground. They can see best in the dark and can be rather stealthy around stone. With this they are small, and slightly slower like all gnomes.",
+
+  "power.digs_dnd_origins.gnome/description_forest.name": "Forest Gnome",
+  "power.digs_dnd_origins.gnome/description_forest.description": "Forest gnomes are rare and secretive, relying on animals they befreind for protection. With this they are small, slightly slower, and can see rather well in the dark like all gnomes.",
+
+  "power.digs_dnd_origins.gnome/description_rock.name": "Rock Gnome",
+  "power.digs_dnd_origins.gnome/description_rock.description": "Rock gnomes are inventive by nature, so they hold the secret of creating the copper constructs. With this they are small, slightly slower, and can see rather well in the dark like all gnomes.",
+
+  "power.digs_dnd_origins.gnome/deep/size.name": "Size",
+  "power.digs_dnd_origins.gnome/deep/size.description": "You are half as tall as a human. You also have 40% less health points and deal 0.5 less damage. Your size is small.",
+
+  "power.digs_dnd_origins.gnome/deep/speed.name": "Speed",
+  "power.digs_dnd_origins.gnome/deep/speed.description": "Your base speed is 10% slower.",
+
+  "power.digs_dnd_origins.gnome/deep/stone_camouflage.name": "Stone Camouflage",
+  "power.digs_dnd_origins.gnome/deep/stone_camouflage.description": "You have an easier time hiding among rocks. Sneaking while up against stone will render you (but not your armor) invisible.",
+
+  "power.digs_dnd_origins.gnome/deep/superior_darkvision.name": "Superior Darkvision",
+  "power.digs_dnd_origins.gnome/deep/superior_darkvision.description": "Accustomed to the Underdark, your vision is superior even to those with normal darkvision.",
+
+  "power.digs_dnd_origins.gnome/forest/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.gnome/forest/darkvision.description": "Accustomed to life underground, you have superior vision in dark and dim conditions.",
+
+  "power.digs_dnd_origins.gnome/forest/size.name": "Size",
+  "power.digs_dnd_origins.gnome/forest/size.description": "You are half as tall as a human. You also have 40% less health points and deal 0.5 less damage. Your size is small.",
+
+  "power.digs_dnd_origins.gnome/forest/speak_with_small_beasts.name": "Speak With Small Beasts",
+  "power.digs_dnd_origins.gnome/forest/speak_with_small_beasts.description": "Through sounds and gestures, you can communicate simple ideas with small beasts. Using an empty hand, you can immediately tame small animals.",
+
+  "power.digs_dnd_origins.gnome/forest/speed.name": "Speed",
+  "power.digs_dnd_origins.gnome/forest/speed.description": "Your base speed is 10% slower.",
+
+  "power.digs_dnd_origins.gnome/rock/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.gnome/rock/darkvision.description": "Accustomed to life underground, you have superior vision in dark and dim conditions.",
+
+  "power.digs_dnd_origins.gnome/rock/size.name": "Size",
+  "power.digs_dnd_origins.gnome/rock/size.description": "You are half as tall as a human. You also have 40% less health points and deal 0.5 less damage. Your size is small.",
+
+  "power.digs_dnd_origins.gnome/rock/speed.name": "Speed",
+  "power.digs_dnd_origins.gnome/rock/speed.description": "Your base speed is 10% slower.",
+
+  "power.digs_dnd_origins.gnome/rock/tinker.name": "Tinker",
+  "power.digs_dnd_origins.gnome/rock/tinker.description": "You can construct a tiny clockwork toy that resembles a frog. When placed on the ground, the toy moves at a slower than walking pace in random directions.",
+
+  "origin.digs_dnd_origins.gnome/deep.name": "Deep Gnome",
+  "origin.digs_dnd_origins.gnome/deep.description": "Guarded, and suspicious of outsiders, svirfneblin are cunning and taciturn, but can be just as kind-hearted, loyal, and compassionate as their surface cousins.",
+
+  "origin.digs_dnd_origins.gnome/forest.name": "Forest Gnome",
+  "origin.digs_dnd_origins.gnome/forest.description": "Forest gnomes tend to be friendly with other good-spirited woodland folk, and they regard elves and good fey as their most important allies.",
+
+  "origin.digs_dnd_origins.gnome/rock.name": "Rock Gnome",
+  "origin.digs_dnd_origins.gnome/rock.description": "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.",
+
+  "origin.digs_dnd_origins.elf.name": "Elf",
+  "origin.digs_dnd_origins.elf.description": "Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. You will pick a sub race if you pick this race.",
+
+  "power.digs_dnd_origins.elf/description_dark.name": "Dark Elf",
+  "power.digs_dnd_origins.elf/description_dark.description": "Dark evles were banished from the surface world and have become accustomed to the dark. They have superior darkvision, but limited sight in daylight. They also have proficiency with different weapons than other elves and can cast the darkness spell.",
+
+  "power.digs_dnd_origins.elf/description_high.name": "High Elf",
+  "power.digs_dnd_origins.elf/description_high.description": "High elves have a natural talent for magic. Arcane damage scales better with them, they have elven weapon training, as well as the regular elf traits of darkvision and being slimmer.",
+
+  "power.digs_dnd_origins.elf/description_wood.name": "Wood Elf",
+  "power.digs_dnd_origins.elf/description_wood.description": "Wood elves are native to forests and have a distinct advantage when in their element. They have an easier time hiding in foliage, are slightly faster, have training in elven weapons, and the regular elven traits of darkvision and being slimmer.",
+
+  "power.digs_dnd_origins.elf/dark/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.elf/dark/ability_score_increase.description": "Due to your increased intelligence, your frost spell power is increased by 1.",
+
+  "power.digs_dnd_origins.elf/dark/darkness.name": "Darkness",
+  "power.digs_dnd_origins.elf/dark/darkness.description": "Magical darkness spreads from a point you are aiming at within range to fill a 5 block radius sphere for the duration. A creature with darkvision cannot see through this darkness, and non magical light can't illuminate it. If the point you choose is an entity then the darkness emanates from them and moves with them. Activating this ability a second time or taking damage will cause the effect to end early.",
+
+  "power.digs_dnd_origins.elf/dark/drow_magic.name": "Drow Magic",
+  "power.digs_dnd_origins.elf/dark/drow_magic.description": "You can cast the faerie fire and darkness spells each once a day with this ability. You regain the ability to do so once you take a long rest. These spells both require concentration and cannot be active at the same time.",
+
+  "power.digs_dnd_origins.elf/dark/drow_weapon_training.name": "Drow Weapon Training",
+  "power.digs_dnd_origins.elf/dark/drow_weapon_training.description": "You deal 2 more damage with swords, rapiers and crossbows.",
+
+  "power.digs_dnd_origins.elf/dark/faerie_fire.name": "Faerie Fire",
+  "power.digs_dnd_origins.elf/dark/faerie_fire.description": "Each entity within a 6 block range of the target location will have the glowing effect. This area will remain to glow entities for 1 minute. Activating this ability a second time or taking damage will cause the effect to end early.",
+
+  "power.digs_dnd_origins.elf/dark/size.name": "Size",
+  "power.digs_dnd_origins.elf/dark/size.description": "You are slightly slimmer than humans and you have 20% less health points. Your size is medium.",
+
+  "power.digs_dnd_origins.elf/dark/sunlight_sensitivity.name": "Sunlight Sensitivity",
+  "power.digs_dnd_origins.elf/dark/sunlight_sensitivity.description": "Your vision is reduced when in direct sunlight.",
+
+  "power.digs_dnd_origins.elf/dark/superior_darkvision.name": "Superior Darkvision",
+  "power.digs_dnd_origins.elf/dark/superior_darkvision.description": "Accustomed to the Underdark, your vision is superior even to those with normal darkvision.",
+
+  "power.digs_dnd_origins.elf/dark/trance.name": "Trance",
+  "power.digs_dnd_origins.elf/dark/trance.description": "Elves don't need to sleep. Instead they meditate deeply, remaining semiconscious, for 4 hours a day. Your insomnia builds half as fast.",
+
+  "power.digs_dnd_origins.elf/high/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.elf/high/ability_score_increase.description": "Due to your increased intelligence, your arcane spell power is increased by 1.",
+
+  "power.digs_dnd_origins.elf/high/cantrip.name": "Cantrip",
+  "power.digs_dnd_origins.elf/high/cantrip.description": "You know one cantrip of your choice from the following list: Firebolt, Poison Spray, Ray of Frost or Lightning Lure. You will pick your cantrip upon selecting this subrace.",
+
+  "power.digs_dnd_origins.elf/high/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.elf/high/darkvision.description": "Accustomed to twilit forests and the night sky, you have superior vision in dark or dim conditions.",
+
+  "power.digs_dnd_origins.elf/high/elf_weapon_training.name": "Elf Weapon Training",
+  "power.digs_dnd_origins.elf/high/elf_weapon_training.description": "You have proficiency with the sword and bow, dealing 2 extra damage with both.",
+
+  "power.digs_dnd_origins.elf/high/size.name": "Size",
+  "power.digs_dnd_origins.elf/high/size.description": "You are slightly slimmer than humans and you have 20% less health points. Your size is medium.",
+
+  "power.digs_dnd_origins.elf/high/trance.name": "Trance",
+  "power.digs_dnd_origins.elf/high/trance.description": "Elves don't need to sleep. Instead they meditate deeply, remaining semiconscious, for 4 hours a day. Your insomnia builds half as fast.",
+
+  "power.digs_dnd_origins.elf/high/cantrips/firebolt.name": "Range",
+  "power.digs_dnd_origins.elf/high/cantrips/firebolt.description": "35 Blocks",
+
+  "power.digs_dnd_origins.elf/high/cantrips/lightning_lure.name": "Range",
+  "power.digs_dnd_origins.elf/high/cantrips/lightning_lure.description": "11 Blocks",
+
+  "power.digs_dnd_origins.elf/high/cantrips/poison_spray.name": "Range",
+  "power.digs_dnd_origins.elf/high/cantrips/poison_spray.description": "8 Blocks",
+
+  "power.digs_dnd_origins.elf/high/cantrips/ray_of_frost.name": "Range",
+  "power.digs_dnd_origins.elf/high/cantrips/ray_of_frost.description": "18 Blocks",
+
+  "power.digs_dnd_origins.elf/wood/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.elf/wood/darkvision.description": "Accustomed to twilit forests and the night sky, you have superior vision in dark or dim conditions.",
+
+  "power.digs_dnd_origins.elf/wood/elf_weapon_training.name": "Elf Weapon Training",
+  "power.digs_dnd_origins.elf/wood/elf_weapon_training.description": "You have proficiency with the sword and bow, dealing 2 extra damage with both.",
+
+  "power.digs_dnd_origins.elf/wood/fleet_of_foot.name": "Fleet of Foot",
+  "power.digs_dnd_origins.elf/wood/fleet_of_foot.description": "Your base walking speed is 10% faster.",
+
+  "power.digs_dnd_origins.elf/wood/mask_of_the_wild.name": "Mask of the Wild",
+  "power.digs_dnd_origins.elf/wood/mask_of_the_wild.description": "Sneaking while up against foliage will render you (but not your armor) invisible.",
+
+  "power.digs_dnd_origins.elf/wood/size.name": "Size",
+  "power.digs_dnd_origins.elf/wood/size.description": "You are slightly slimmer than humans and you have 20% less health points. Your size is medium.",
+
+  "power.digs_dnd_origins.elf/wood/trance.name": "Trance",
+  "power.digs_dnd_origins.elf/wood/trance.description": "Elves don't need to sleep. Instead they meditate deeply, remaining semiconscious, for 4 hours a day. Your insomnia builds half as fast.",
+
+  "origin.digs_dnd_origins.elf/dark.name": "Dark Elf",
+  "origin.digs_dnd_origins.elf/dark.description": "Also called dark elves, the Drow have skin that resembles charcoal or obsidian, as well as stark white or pale yellow hair.",
+
+  "origin.digs_dnd_origins.elf/high.name": "High Elf",
+  "origin.digs_dnd_origins.elf/high.description": "As a high elf, you have a keen mind and a mastery of at least the basics of magic.",
+
+  "origin.digs_dnd_origins.elf/wood.name": "Wood Elf",
+  "origin.digs_dnd_origins.elf/wood.description": "As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests.",
+
+  "origin.digs_dnd_origins.elf/cantrips/firebolt.name": "Firebolt",
+  "origin.digs_dnd_origins.elf/cantrips/firebolt.description": "You hurl a mote of fire at a creature or object within range. On a hit, the target takes 3 fire damage. Any target hit by this spell ignites and continues to burn for 2 fire ticks.",
+
+  "origin.digs_dnd_origins.elf/cantrips/lightning_lure.name": "Lightning Lure",
+  "origin.digs_dnd_origins.elf/cantrips/lightning_lure.description": "You create a lash of lightning energy that strikes at one creature you're aiming at. On a hit, the target takes 4 lightning damage and is stunned for half a second.",
+
+  "origin.digs_dnd_origins.elf/cantrips/poison_spray.name": "Poison Spray",
+  "origin.digs_dnd_origins.elf/cantrips/poison_spray.description": "You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. On a hit, the target takes 4 withering damage and is poisoned for 3 seconds.",
+
+  "origin.digs_dnd_origins.elf/cantrips/ray_of_frost.name": "Ray of Frost",
+  "origin.digs_dnd_origins.elf/cantrips/ray_of_frost.description": "A frigid beam of blue-white light streaks toward a creature within range.",
+  
+  "origin.digs_dnd_origins.dwarf.name": "Dwarf",
+  "origin.digs_dnd_origins.dwarf.description": "Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. You will pick a sub race if you pick this race.",
+
+  "power.digs_dnd_origins.dwarf/description_hill.name": "Hill Dwarf",
+  "power.digs_dnd_origins.dwarf/description_hill.description": "Hill dwarves are the more resilient of the dwarves, since they have more health than most other small races. Besides that, they have the normal dwarven attributes of being 3/4 the size of a human, darkvision, resistance to poison, and are more talented with axe weapons.",
+
+  "power.digs_dnd_origins.dwarf/description_mountain.name": "Mountain Dwarves",
+  "power.digs_dnd_origins.dwarf/description_mountain.description": "Mountain dwarves are trained better with heavy armor, and aren't slowed down where most others would be. Besides that, they have the normal dwarven attributes of being 3/4 the size of a human, darkvision, resistance to poison, and are more talented with axe weapons.",
+
+  "power.digs_dnd_origins.dwarf/hill/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.dwarf/hill/darkvision.description": "Accustomed to life underground, you have superior vision in dark and dim conditions.",
+
+  "power.digs_dnd_origins.dwarf/hill/dwarven_combat_training.name": "Dwarven Combat Training",
+  "power.digs_dnd_origins.dwarf/hill/dwarven_combat_training.description": "You have proficiency with axes, dealing +2 damage with them.",
+
+  "power.digs_dnd_origins.dwarf/hill/dwarven_resilience.name": "Dwarven Resilience",
+  "power.digs_dnd_origins.dwarf/hill/dwarven_resilience.description": "The poison status effect lasts half as long for you.",
+
+  "power.digs_dnd_origins.dwarf/hill/dwarven_toughness.name": "Dwarven Toughness",
+  "power.digs_dnd_origins.dwarf/hill/dwarven_toughness.description": "Your health is only reduced by 30% rather than the 40% of most other small races.",
+
+  "power.digs_dnd_origins.dwarf/hill/size.name": "Size",
+  "power.digs_dnd_origins.dwarf/hill/size.description": "You are a block and a half tall. You also have 10% less health points. Your size is medium.",
+
+  "power.digs_dnd_origins.dwarf/hill/speed.name": "Speed",
+  "power.digs_dnd_origins.dwarf/hill/speed.description": "Your base walking speed is 10% slower.",
+
+  "power.digs_dnd_origins.dwarf/hill/tool_proficiency.name": "Tool Proficiency",
+  "power.digs_dnd_origins.dwarf/hill/tool_proficiency.description": "You gain proficiency with mason's tools, you can mine any ore with a stone pickaxe or greater.",
+
+  "power.digs_dnd_origins.dwarf/mountain/darkvision.name": "Darkvision",
+  "power.digs_dnd_origins.dwarf/mountain/darkvision.description": "Accustomed to life underground, you have superior vision in dark and dim conditions.",
+
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_armor_training.name": "Dwarven Armor Training",
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_armor_training.description": "You have proficiency with armor, giving you +2 to your armor toughness while a full set is equipped.",
+
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_combat_training.name": "Dwarven Combat Training",
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_combat_training.description": "You have proficiency with axes, dealing +2 damage with them.",
+
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_resilience.name": "Dwarven Resilience",
+  "power.digs_dnd_origins.dwarf/mountain/dwarven_resilience.description": "The poison status effect lasts half as long for you.",
+
+  "power.digs_dnd_origins.dwarf/mountain/size.name": "Size",
+  "power.digs_dnd_origins.dwarf/mountain/size.description": "You are a block and a half tall. You also have 20% less health points. Your size is medium.",
+
+  "power.digs_dnd_origins.dwarf/mountain/speed.name": "Speed",
+  "power.digs_dnd_origins.dwarf/mountain/speed.description": "Your base walking speed is 10% slower.",
+
+  "power.digs_dnd_origins.dwarf/mountain/tool_proficiency.name": "Tool Proficiency",
+  "power.digs_dnd_origins.dwarf/mountain/tool_proficiency.description": "You gain proficiency with mason's tools, you can mine any ore with a stone pickaxe or greater.",
+
+  "origin.digs_dnd_origins.dwarf/hill.name": "Hill Dwarf",
+  "origin.digs_dnd_origins.dwarf/hill.description": "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.",
+
+  "origin.digs_dnd_origins.dwarf/mountain.name": "Mountain Dwarf",
+  "origin.digs_dnd_origins.dwarf/mountain.description": "As a mountain dwarf, you’re strong and hardy, accustomed to a difficult life in rugged terrain.",
+
+  "origin.digs_dnd_origins.dragonborn.name": "Dragonborn",
+  "origin.digs_dnd_origins.dragonborn.description": "Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. You will pick a sub race if you pick this race.",
+
+  "power.digs_dnd_origins.dragonborn/description_black.name": "Black Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_black.description": "Black dragonborns are descended from black dragons, and like their ancestors they can spew out poison, are resistant to poison, and are most comfortable in humid biomes.",
+
+  "power.digs_dnd_origins.dragonborn/description_blue.name": "Blue Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_blue.description": "Blue dragonborns are descended from blue dragons, and like their ancestors they can breath out lightning, are resistant to lightning, and are most comfortable in dry biomes.",
+
+  "power.digs_dnd_origins.dragonborn/description_brass.name": "Brass Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_brass.description": "Brass dragonborns are descended from brass dragons, and like their ancestors they can spew out flame, are resistant to fire, and are most comfortable in dry biomes.",
+
+  "power.digs_dnd_origins.dragonborn/description_green.name": "Green Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_green.description": "Green dragonborns are descended from green dragons, and like their ancestors they can spew out poison, are resistant to poison, and are most comfortable in biomes with precipitation.",
+
+  "power.digs_dnd_origins.dragonborn/description_red.name": "Red Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_red.description": "Red dragonborns are descended from red dragons, and like their ancestors they can spew out flame, are resistant to fire, and are most comfortable in warmer biomes.",
+
+  "power.digs_dnd_origins.dragonborn/description_white.name": "White Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_white.description": "White dragonborns are descended from white dragons, and like their ancestors they can spew out frost, are resistant to freezing effects, and are most comfortable in colder biomes.",
+
+  "power.digs_dnd_origins.dragonborn/black/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/black/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+
+  "power.digs_dnd_origins.dragonborn/black/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/black/breath_weapon.description": "You can breathe out poison before you in a line, poisoning your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/black/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/black/damage_resistance.description": "Poisons last half as long for you.",
+
+  "power.digs_dnd_origins.dragonborn/black/humid_habitat.name": "Humid Habitat",
+  "power.digs_dnd_origins.dragonborn/black/humid_habitat.description": "Whenever you are in a dry biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/black/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/black/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/blue/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/blue/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+  
+  "power.digs_dnd_origins.dragonborn/blue/arid_habitat.name": "Arid Habitat",
+  "power.digs_dnd_origins.dragonborn/blue/arid_habitat.description": "Whenever you are in a humid biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/blue/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/blue/breath_weapon.description": "You can breathe out lightning before you in a line, damaging and slowing your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/blue/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/blue/damage_resistance.description": "You take half damage from lightning and slowness lasts half as long on you.",
+
+  "power.digs_dnd_origins.dragonborn/blue/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/blue/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/brass/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/brass/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+  
+  "power.digs_dnd_origins.dragonborn/brass/arid_habitat.name": "Arid Habitat",
+  "power.digs_dnd_origins.dragonborn/brass/arid_habitat.description": "Whenever you are in a humid biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/brass/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/brass/breath_weapon.description": "You can breathe out flames before you in a line, burning your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/brass/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/brass/damage_resistance.description": "You take half damage from fire damage.",
+
+  "power.digs_dnd_origins.dragonborn/brass/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/brass/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/green/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/green/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+
+  "power.digs_dnd_origins.dragonborn/green/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/green/breath_weapon.description": "You can breathe out poison before you in a small cone, poisoning your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/green/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/green/damage_resistance.description": "Poisons last half as long for you.",
+
+  "power.digs_dnd_origins.dragonborn/green/humid_habitat.name": "Humid Habitat",
+  "power.digs_dnd_origins.dragonborn/green/humid_habitat.description": "Whenever you are in a dry biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/green/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/green/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/red/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/red/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+
+  "power.digs_dnd_origins.dragonborn/red/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/red/breath_weapon.description": "You can breathe out flames before you in a small cone, burning your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/red/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/red/damage_resistance.description": "You take half damage from fire damage.",
+
+  "power.digs_dnd_origins.dragonborn/red/molten_habitat.name": "Molten Habitat",
+  "power.digs_dnd_origins.dragonborn/red/molten_habitat.description": "Whenever you are in a cold biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/red/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/red/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/white/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/white/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+
+  "power.digs_dnd_origins.dragonborn/white/arctic_habitat.name": "Hypothermia",
+  "power.digs_dnd_origins.dragonborn/white/arctic_habitat.description": "Whenever you are in a hot biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/white/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/white/breath_weapon.description": "You can breathe out frost before you in a small cone, damaging and slowing your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/white/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/white/damage_resistance.description": "You take half damage from freezing and slowness lasts half as long on you.",
+
+  "power.digs_dnd_origins.dragonborn/white/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/white/size.description": "You are larger than a human, your size is medium.",
+
+  "origin.digs_dnd_origins.dragonborn/black.name": "Black",
+  "origin.digs_dnd_origins.dragonborn/black.description": "Black dragonborns are descendants of the ancient black dragons, and as such some of their ancestor's abilities manifest in them.",
+
+  "origin.digs_dnd_origins.dragonborn/blue.name": "Blue",
+  "origin.digs_dnd_origins.dragonborn/blue.description": "Blue dragonborns are descendants of the ancient blue dragons, and as such some of their ancestor's abilities manifest in them.",
+
+  "origin.digs_dnd_origins.dragonborn/brass.name": "Brass",
+  "origin.digs_dnd_origins.dragonborn/brass.description": "Brass dragonborns are descendants of the ancient brass dragons, and as such some of their ancestor's abilities manifest in them.",
+
+  "origin.digs_dnd_origins.dragonborn/green.name": "Green",
+  "origin.digs_dnd_origins.dragonborn/green.description": "Green dragonborns are descendants of the ancient green dragons, and as such some of their ancestor's abilities manifest in them.",
+
+  "origin.digs_dnd_origins.dragonborn/red.name": "Red",
+  "origin.digs_dnd_origins.dragonborn/red.description": "Red dragonborns are descendants of the ancient red dragons, and as such some of their ancestor's abilities manifest in them.",
+
+  "origin.digs_dnd_origins.dragonborn/white.name": "White",
+  "origin.digs_dnd_origins.dragonborn/white.description": "White dragonborns are descendants of the ancient white dragons, and as such some of their ancestor's abilities manifest in them.",
+  
+  "layer.origins.skills/skills.name": "Skill",
+  "layer.origins.skills/half-elf_skills.name": "Skill Versatility",
+  "layer.origins.feats/variant_human_feats.name": "Feat",
+  "layer.origins.elf.name": "Elven Lineage",
+  "layer.origins.dragonborn.name": "Draconic Ancestry",
+  "layer.origins.dwarf.name": "Dwarven Lineage",
+  "layer.origins.gnome.name": "Gnomic Descendance",
+  "layer.origins.halfling.name": "Halfling Descendance",
+  "layer.origins.skills/skilled_feat_1.name": "Skilled 3",
+  "layer.origins.skills/skilled_feat_2.name": "Skilled 2",
+  "layer.origins.skills/skilled_feat_3.name": "Skilled 1",
+  "layer.origins.cantrips/cantrips.name": "Cantrip",
+
   "item.digs_dnd_origins.red_scale": "红色标尺",
   "item.digs_dnd_origins.blue_scale": "蓝色标尺",
   "item.digs_dnd_origins.green_scale": "绿色标尺",

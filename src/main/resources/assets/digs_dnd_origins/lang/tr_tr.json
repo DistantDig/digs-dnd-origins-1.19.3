@@ -389,6 +389,114 @@
   "origin.digs_dnd_origins.dragonborn.name": "Ejderdoğan",
   "origin.digs_dnd_origins.dragonborn.description": "Adları da gösterdiği gibi ejderlerden doğan Ejderdoğanlar, onları korkunç bir anlayışsızlıkla karşılayan bir dünyada gururla yürürler. Bu ırkı seçerseniz, bir alt ırk da seçmeniz gerekecektir.",
 
+  "power.digs_dnd_origins.dragonborn/description_black.name": "Kara Ejderdoğan",
+  "power.digs_dnd_origins.dragonborn/description_black.description": "Kara Ejderdoğanlar, kara ejderhaların torunlarıdır ve ataları gibi zehir püskürtebilirler, zehire karşı dayanıklıdırlar ve en çok nemli biyomlarda rahat hissederler.",
+
+  "power.digs_dnd_origins.dragonborn/description_blue.name": "Mavi Ejderdoğan",
+  "power.digs_dnd_origins.dragonborn/description_blue.description": "Mavi Ejderdoğanlar, mavi ejderhaların torunlarıdır ve ataları gibi yıldırım püskürtebilirler, yıldırıma karşı dayanıklıdırlar ve en çok kuru biyomlarda rahat hissederler.",
+
+  "power.digs_dnd_origins.dragonborn/description_brass.name": "Pirinç Ejderdoğan",
+  "power.digs_dnd_origins.dragonborn/description_brass.description": "Pirinç Ejderdoğanlar, pirinç ejderhaların torunlarıdır ve ataları gibi alev püskürtebilirler, ateşe karşı dayanıklıdırlar ve en çok kuru biyomlarda rahat hissederler.",
+
+  "power.digs_dnd_origins.dragonborn/description_green.name": "Yeşil Ejderdoğan",
+  "power.digs_dnd_origins.dragonborn/description_green.description": "Yeşil Ejderdoğanlar, yeşil ejderhaların torunlarıdır ve ataları gibi zehir püskürtebilirler, zehire karşı dayanıklıdırlar ve en çok yağışlı biyomlarda rahat hissederler.",
+
+  "power.digs_dnd_origins.dragonborn/description_red.name": "Kırmızı Ejderdoğan",
+  "power.digs_dnd_origins.dragonborn/description_red.description": "Kırmızı Ejderdoğanlar, kırmızı ejderhaların torunlarıdır ve ataları gibi alev püskürtebilirler, ateşe karşı dayanıklıdırlar ve en çok sıcak biyomlarda rahat hissederler.",
+
+  "power.digs_dnd_origins.dragonborn/description_white.name": "Beyaz Ejderdoğan",
+  "power.digs_dnd_origins.dragonborn/description_white.description": "Beyaz Ejderdoğanlar, beyaz ejderhaların torunlarıdır ve ataları gibi buzlanma büyüsü püskürtebilirler, donma etkilerine karşı dayanıklıdırlar ve en çok soğuk biyomlarda rahat hissederler.",
+
+  "power.digs_dnd_origins.dragonborn/black/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.dragonborn/black/ability_score_increase.description": "Artan gücünüz sayesinde, 1 ekstra yakın dövüş hasarı verirsiniz.",
+
+  "power.digs_dnd_origins.dragonborn/black/breath_weapon.name": "Nefes Silahı",
+  "power.digs_dnd_origins.dragonborn/black/breath_weapon.description": "Önünüzde düz bir çizgi halinde zehir püskürtebilirsiniz, düşmanlarınızı zehirlersiniz. Kısa veya uzun bir dinlenmeden sonra bunu tekrar yapabilme yeteneğini kazanırsınız.",
+
+  "power.digs_dnd_origins.dragonborn/black/damage_resistance.name": "Zehir Direnci",
+  "power.digs_dnd_origins.dragonborn/black/damage_resistance.description": "Zehirlenme etkisi sizde yarı yarıya daha kısa sürer.",
+
+  "power.digs_dnd_origins.dragonborn/black/humid_habitat.name": "Nemli Ortam",
+  "power.digs_dnd_origins.dragonborn/black/humid_habitat.description": "Kuru biyomlarda olduğunuzda yavaşlayacak ve zayıflayacaksınız.",
+
+  "power.digs_dnd_origins.dragonborn/black/size.name": "Boyut",
+  "power.digs_dnd_origins.dragonborn/black/size.description": "Bir insandan daha büyüksünüz, boyutunuz orta boy.",
+
+  "power.digs_dnd_origins.dragonborn/blue/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.dragonborn/blue/ability_score_increase.description": "Artan gücünüz sayesinde, 1 ekstra yakın dövüş hasarı verirsiniz.",
+  
+  "power.digs_dnd_origins.dragonborn/blue/arid_habitat.name": "Kurak Ortam",
+  "power.digs_dnd_origins.dragonborn/blue/arid_habitat.description": "Nemli biyomlarda olduğunuzda yavaşlayacak ve zayıflayacaksınız.",
+
+  "power.digs_dnd_origins.dragonborn/blue/breath_weapon.name": "Nefes Silahı",
+  "power.digs_dnd_origins.dragonborn/blue/breath_weapon.description": "Önünüzde düz bir çizgi halinde yıldırım püskürtebilirsiniz, düşmanlarınıza zarar vererek onları yavaşlatırsınız. Kısa veya uzun bir dinlenmeden sonra bunu tekrar yapabilme yeteneğini kazanırsınız.",
+
+  "power.digs_dnd_origins.dragonborn/blue/damage_resistance.name": "Yıldırım Direnci",
+  "power.digs_dnd_origins.dragonborn/blue/damage_resistance.description": "Yıldırım hasarından yarı yarıya az hasar alırsınız ve yavaşlama etkisi sizde yarı yarıya daha kısa sürer.",
+
+  "power.digs_dnd_origins.dragonborn/blue/size.name": "Boyut",
+  "power.digs_dnd_origins.dragonborn/blue/size.description": "Bir insandan daha büyüksünüz, boyutunuz orta boy.",
+
+  "power.digs_dnd_origins.dragonborn/brass/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.dragonborn/brass/ability_score_increase.description": "Artan gücünüz sayesinde, 1 ekstra yakın dövüş hasarı verirsiniz.",
+  
+  "power.digs_dnd_origins.dragonborn/brass/arid_habitat.name": "Kurak Ortam",
+  "power.digs_dnd_origins.dragonborn/brass/arid_habitat.description": "Nemli biyomlarda olduğunuzda yavaşlayacak ve zayıflayacaksınız.",
+
+  "power.digs_dnd_origins.dragonborn/brass/breath_weapon.name": "Nefes Silahı",
+  "power.digs_dnd_origins.dragonborn/brass/breath_weapon.description": "Önünüzde düz bir çizgi halinde alev püskürtebilirsiniz, düşmanlarınızı yakarsınız. Kısa veya uzun bir dinlenmeden sonra bunu tekrar yapabilme yeteneğini kazanırsınız.",
+
+  "power.digs_dnd_origins.dragonborn/brass/damage_resistance.name": "Ateş Direnci",
+  "power.digs_dnd_origins.dragonborn/brass/damage_resistance.description": "Ateş hasarından yarı yarıya az hasar alırsınız.",
+
+  "power.digs_dnd_origins.dragonborn/brass/size.name": "Boyut",
+  "power.digs_dnd_origins.dragonborn/brass/size.description": "Bir insandan daha büyüksünüz, boyutunuz orta boy.",
+
+  "power.digs_dnd_origins.dragonborn/green/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.dragonborn/green/ability_score_increase.description": "Artan gücünüz sayesinde, 1 ekstra yakın dövüş hasarı verirsiniz.",
+
+  "power.digs_dnd_origins.dragonborn/green/breath_weapon.name": "Nefes Silahı",
+  "power.digs_dnd_origins.dragonborn/green/breath_weapon.description": "Önünüzde küçük bir koni şeklinde zehir püskürtebilirsiniz, düşmanlarınızı zehirlersiniz. Kısa veya uzun bir dinlenmeden sonra bunu tekrar yapabilme yeteneğini kazanırsınız.",
+
+  "power.digs_dnd_origins.dragonborn/green/damage_resistance.name": "Zehir Direnci",
+  "power.digs_dnd_origins.dragonborn/green/damage_resistance.description": "Zehirlenme etkisi sizde yarı yarıya daha kısa sürer.",
+
+  "power.digs_dnd_origins.dragonborn/green/humid_habitat.name": "Nemli Ortam",
+  "power.digs_dnd_origins.dragonborn/green/humid_habitat.description": "Kuru biyomlarda olduğunuzda yavaşlayacak ve zayıflayacaksınız.",
+
+  "power.digs_dnd_origins.dragonborn/green/size.name": "Boyut",
+  "power.digs_dnd_origins.dragonborn/green/size.description": "Bir insandan daha büyüksünüz, boyutunuz orta boy.",
+
+  "power.digs_dnd_origins.dragonborn/red/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.dragonborn/red/ability_score_increase.description": "Artan gücünüz sayesinde, 1 ekstra yakın dövüş hasarı verirsiniz.",
+
+  "power.digs_dnd_origins.dragonborn/red/breath_weapon.name": "Nefes Silahı",
+  "power.digs_dnd_origins.dragonborn/red/breath_weapon.description": "Önünüzde küçük bir koni şeklinde alev püskürtebilirsiniz, düşmanlarınızı yakarsınız. Kısa veya uzun bir dinlenmeden sonra bunu tekrar yapabilme yeteneğini kazanırsınız.",
+
+  "power.digs_dnd_origins.dragonborn/red/damage_resistance.name": "Ateş Direnci",
+  "power.digs_dnd_origins.dragonborn/red/damage_resistance.description": "Ateş hasarından yarı yarıya az hasar alırsınız.",
+
+  "power.digs_dnd_origins.dragonborn/red/molten_habitat.name": "Erimiş Ortam",
+  "power.digs_dnd_origins.dragonborn/red/molten_habitat.description": "Soğuk biyomlarda olduğunuzda yavaşlayacak ve zayıflayacaksınız.",
+
+  "power.digs_dnd_origins.dragonborn/red/size.name": "Boyut",
+  "power.digs_dnd_origins.dragonborn/red/size.description": "Bir insandan daha büyüksünüz, boyutunuz orta boy.",
+
+  "power.digs_dnd_origins.dragonborn/white/ability_score_increase.name": "Yetenek Puanı Artışı",
+  "power.digs_dnd_origins.dragonborn/white/ability_score_increase.description": "Artan gücünüz sayesinde, 1 ekstra yakın dövüş hasarı verirsiniz.",
+
+  "power.digs_dnd_origins.dragonborn/white/arctic_habitat.name": "Hipotermi",
+  "power.digs_dnd_origins.dragonborn/white/arctic_habitat.description": "Sıcak bir biyomda bulunduğunuzda yavaşlayacak ve zayıflayacaksınız.",
+
+  "power.digs_dnd_origins.dragonborn/white/breath_weapon.name": "Nefes Silahı",
+  "power.digs_dnd_origins.dragonborn/white/breath_weapon.description": "Önünüzde küçük bir koni şeklinde don püskürtebilirsiniz, düşmanlarınıza zarar vererek onları yavaşlatırsınız. Kısa veya uzun bir dinlenmeden sonra bunu tekrar yapabilme yeteneğini kazanırsınız.",
+
+  "power.digs_dnd_origins.dragonborn/white/damage_resistance.name": "Soğuk Direnci",
+  "power.digs_dnd_origins.dragonborn/white/damage_resistance.description": "Donma hasarı almanız yarı yarıya azalır ve yavaşlama etkisi sizde yarı yarıya daha kısa sürer.",
+
+  "power.digs_dnd_origins.dragonborn/white/size.name": "Boyut",
+  "power.digs_dnd_origins.dragonborn/white/size.description": "Bir insandan daha büyüksünüz, boyutunuz orta boy.",
+
   "origin.digs_dnd_origins.dragonborn/black.name": "Kara Ejderdoğan",
   "origin.digs_dnd_origins.dragonborn/black.description": "Kara Ejderdoğanlar, antik kara ejderhaların torunlarıdır ve bu nedenle atalarının bazı yetenekleri onlarda ortaya çıkar.",
 
@@ -415,9 +523,9 @@
   "layer.origins.dwarf.name": "Cüce Soyu",
   "layer.origins.gnome.name": "Gnom Torunu",
   "layer.origins.halfling.name": "Yarımcık Torunu",
-  "layer.origins.skills/skilled_feat_1.name": "Yetenek 1",
-  "layer.origins.skills/skilled_feat_2.name": "Yetenek 2",
-  "layer.origins.skills/skilled_feat_3.name": "Yetenek 3",
+  "layer.origins.skills/skilled_feat_1.name": "Üçüncü Yetenek",
+  "layer.origins.skills/skilled_feat_2.name": "İkinci Yetenek",
+  "layer.origins.skills/skilled_feat_3.name": "Birinci Yetenek",
   "layer.origins.cantrips/cantrips.name": "Büyülü Söz",
 
   "item.digs_dnd_origins.red_scale": "Kırmızı Kabuk",

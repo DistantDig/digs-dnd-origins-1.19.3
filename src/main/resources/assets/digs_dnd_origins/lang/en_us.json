@@ -389,6 +389,114 @@
   "origin.digs_dnd_origins.dragonborn.name": "Dragonborn",
   "origin.digs_dnd_origins.dragonborn.description": "Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. You will pick a sub race if you pick this race.",
 
+  "power.digs_dnd_origins.dragonborn/description_black.name": "Black Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_black.description": "Black dragonborns are descended from black dragons, and like their ancestors they can spew out poison, are resistant to poison, and are most comfortable in humid biomes.",
+
+  "power.digs_dnd_origins.dragonborn/description_blue.name": "Blue Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_blue.description": "Blue dragonborns are descended from blue dragons, and like their ancestors they can breath out lightning, are resistant to lightning, and are most comfortable in dry biomes.",
+
+  "power.digs_dnd_origins.dragonborn/description_brass.name": "Brass Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_brass.description": "Brass dragonborns are descended from brass dragons, and like their ancestors they can spew out flame, are resistant to fire, and are most comfortable in dry biomes.",
+
+  "power.digs_dnd_origins.dragonborn/description_green.name": "Green Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_green.description": "Green dragonborns are descended from green dragons, and like their ancestors they can spew out poison, are resistant to poison, and are most comfortable in biomes with precipitation.",
+
+  "power.digs_dnd_origins.dragonborn/description_red.name": "Red Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_red.description": "Red dragonborns are descended from red dragons, and like their ancestors they can spew out flame, are resistant to fire, and are most comfortable in warmer biomes.",
+
+  "power.digs_dnd_origins.dragonborn/description_white.name": "White Dragonborn",
+  "power.digs_dnd_origins.dragonborn/description_white.description": "White dragonborns are descended from white dragons, and like their ancestors they can spew out frost, are resistant to freezing effects, and are most comfortable in colder biomes.",
+
+  "power.digs_dnd_origins.dragonborn/black/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/black/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+
+  "power.digs_dnd_origins.dragonborn/black/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/black/breath_weapon.description": "You can breathe out poison before you in a line, poisoning your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/black/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/black/damage_resistance.description": "Poisons last half as long for you.",
+
+  "power.digs_dnd_origins.dragonborn/black/humid_habitat.name": "Humid Habitat",
+  "power.digs_dnd_origins.dragonborn/black/humid_habitat.description": "Whenever you are in a dry biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/black/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/black/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/blue/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/blue/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+  
+  "power.digs_dnd_origins.dragonborn/blue/arid_habitat.name": "Arid Habitat",
+  "power.digs_dnd_origins.dragonborn/blue/arid_habitat.description": "Whenever you are in a humid biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/blue/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/blue/breath_weapon.description": "You can breathe out lightning before you in a line, damaging and slowing your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/blue/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/blue/damage_resistance.description": "You take half damage from lightning and slowness lasts half as long on you.",
+
+  "power.digs_dnd_origins.dragonborn/blue/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/blue/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/brass/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/brass/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+  
+  "power.digs_dnd_origins.dragonborn/brass/arid_habitat.name": "Arid Habitat",
+  "power.digs_dnd_origins.dragonborn/brass/arid_habitat.description": "Whenever you are in a humid biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/brass/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/brass/breath_weapon.description": "You can breathe out flames before you in a line, burning your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/brass/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/brass/damage_resistance.description": "You take half damage from fire damage.",
+
+  "power.digs_dnd_origins.dragonborn/brass/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/brass/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/green/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/green/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+
+  "power.digs_dnd_origins.dragonborn/green/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/green/breath_weapon.description": "You can breathe out poison before you in a small cone, poisoning your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/green/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/green/damage_resistance.description": "Poisons last half as long for you.",
+
+  "power.digs_dnd_origins.dragonborn/green/humid_habitat.name": "Humid Habitat",
+  "power.digs_dnd_origins.dragonborn/green/humid_habitat.description": "Whenever you are in a dry biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/green/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/green/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/red/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/red/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+
+  "power.digs_dnd_origins.dragonborn/red/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/red/breath_weapon.description": "You can breathe out flames before you in a small cone, burning your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/red/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/red/damage_resistance.description": "You take half damage from fire damage.",
+
+  "power.digs_dnd_origins.dragonborn/red/molten_habitat.name": "Molten Habitat",
+  "power.digs_dnd_origins.dragonborn/red/molten_habitat.description": "Whenever you are in a cold biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/red/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/red/size.description": "You are larger than a human, your size is medium.",
+
+  "power.digs_dnd_origins.dragonborn/white/ability_score_increase.name": "Ability Score Increase",
+  "power.digs_dnd_origins.dragonborn/white/ability_score_increase.description": "Due to your increased strength, you deal 1 extra melee damage.",
+
+  "power.digs_dnd_origins.dragonborn/white/arctic_habitat.name": "Hypothermia",
+  "power.digs_dnd_origins.dragonborn/white/arctic_habitat.description": "Whenever you are in a hot biome you will be slowed and weakened.",
+
+  "power.digs_dnd_origins.dragonborn/white/breath_weapon.name": "Breath Weapon",
+  "power.digs_dnd_origins.dragonborn/white/breath_weapon.description": "You can breathe out frost before you in a small cone, damaging and slowing your enemies. You regain the ability to do so after a short or long rest.",
+
+  "power.digs_dnd_origins.dragonborn/white/damage_resistance.name": "Damage Resistance",
+  "power.digs_dnd_origins.dragonborn/white/damage_resistance.description": "You take half damage from freezing and slowness lasts half as long on you.",
+
+  "power.digs_dnd_origins.dragonborn/white/size.name": "Size",
+  "power.digs_dnd_origins.dragonborn/white/size.description": "You are larger than a human, your size is medium.",
+
   "origin.digs_dnd_origins.dragonborn/black.name": "Black",
   "origin.digs_dnd_origins.dragonborn/black.description": "Black dragonborns are descendants of the ancient black dragons, and as such some of their ancestor's abilities manifest in them.",
 
@@ -415,9 +523,9 @@
   "layer.origins.dwarf.name": "Dwarven Lineage",
   "layer.origins.gnome.name": "Gnomic Descendance",
   "layer.origins.halfling.name": "Halfling Descendance",
-  "layer.origins.skills/skilled_feat_1.name": "Skilled",
-  "layer.origins.skills/skilled_feat_2.name": "Skilled",
-  "layer.origins.skills/skilled_feat_3.name": "Skilled",
+  "layer.origins.skills/skilled_feat_1.name": "Skilled 1",
+  "layer.origins.skills/skilled_feat_2.name": "Skilled 2",
+  "layer.origins.skills/skilled_feat_3.name": "Skilled 3",
   "layer.origins.cantrips/cantrips.name": "Cantrip",
 
   "item.digs_dnd_origins.red_scale": "Red Scale",
